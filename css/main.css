@@ -23,6 +23,7 @@ nav ul, footer ul {
     padding: 10px;
     list-style: none;
     font-weight: bold;
+    text-transform: lowercase;
 }
 
 nav ul li, footer ul li {
@@ -74,7 +75,6 @@ p a:hover {
 }
 
 p a:visited {
-    color: #222;
     text-decoration: underline;
 }
 
@@ -102,24 +102,4 @@ ul.posts li {
 
 @keyframes pulse-shrink {
     to {transform: scale(.9);}
-}
-
-/* Rotate */
-.rotate {
-	  transition-duration: 12s;
-    transition-property: transform;
-	  animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    $:hover {
-		    transform: rotate(4deg);
-    }
-}
-
-.pulse {
-    animation-name: pulse-shrink;
-    animation-duration: 2s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
 }
