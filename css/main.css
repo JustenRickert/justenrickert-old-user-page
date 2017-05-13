@@ -1,10 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(fonts.googleapis.com/css?family=Nunito);
+
+img {
+    /* centers the image */
+    display: block;
+    margin: 0 auto;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+
+    padding: 10px;
     list-style: none;
     font-weight: bold;
 }
@@ -14,30 +26,51 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #222222;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #6B6B6B;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2, h3 {
+    color: #222;
+}
+h1, h2, h3 {
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-weight: 700;
 }
 p {
-    font-size: 1.2em;
-    line-height: 1.1em;
+    font-family: Nunito, sans-serif;
+    font-weight: 500;
+    font-size: 1.0em;
+    line-height: 1.4em;
     color: #333;
 }
+p a {
+    color: #222;
+    text-decoration: underline;
+}
+p a:visited {
+    color: #222;
+    text-decoration: underline;
+}
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #6B6B6B;
     font-size: .8em;
+    text-align: right;
 }
-
 ul.posts {
+    font-family: 'Montserrat', Helvetica, sans-serif;
     margin: 20px auto 40px;
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
-
+ul.posts a {
+    text-decoration: underline;
+}
 ul.posts li {
     list-style: none;
 }
