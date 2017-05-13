@@ -1,9 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-
 img {
     /* centers the image */
     display: block;
+    margin: 0 auto;
+}
+
+.center {
+    /* centers the image */
+    display: table;
     margin: 0 auto;
 }
 
@@ -11,38 +16,46 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
 nav ul, footer ul {
     font-family: Montserrat;
-    text-transform: uppercase;
     font-weight: normal;
-
     padding: 10px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    text-transform: lowercase;
 }
+
 a {
-    text-decoration: none;
-    color: #222222;
+    text-decoration: underline;
+    color: #222;
 }
+
 a:hover {
     text-decoration: underline;
+    text-transform: uppercase;
 }
+
 h1 {
     color: #6B6B6B;
     text-transform: uppercase;
     text-align: center;
 }
+
 h2, h3 {
     color: #222;
 }
+
 h1, h2, h3 {
     font-family: Montserrat, sans-serif;
     font-weight: 700;
 }
+
 p {
     font-family: Nunito, sans-serif;
     font-weight: 400;
@@ -50,27 +63,63 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 p a {
     color: #222;
     text-decoration: underline;
 }
+
+p a:hover {
+    text-transform: none;
+}
+
 p a:visited {
     color: #222;
     text-decoration: underline;
 }
+
 footer {
     border-top: 1px solid #6B6B6B;
     font-size: .8em;
     text-align: right;
 }
+
 ul.posts {
     font-family: Montserrat, sans-serif;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
+
 ul.posts a {
     text-decoration: underline;
 }
+
 ul.posts li {
     list-style: none;
+}
+
+/* Pulse */
+
+@keyframes pulse-shrink {
+    to {transform: scale(.9);}
+}
+
+/* Rotate */
+.rotate {
+	  transition-duration: 12s;
+    transition-property: transform;
+	  animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    $:hover {
+		    transform: rotate(4deg);
+    }
+}
+
+.pulse {
+    animation-name: pulse-shrink;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }

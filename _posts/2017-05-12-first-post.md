@@ -1,3 +1,9 @@
+---
+layout: post
+title: "First Post"
+date: 2017-05-12
+---
+
 Hello, world!  Obligatory thanks for  checking out my blog.  There is not  a lot
 that I  have to  say right now,  but keep checking  up on  me from time  to time
 because I will surely be making excuses to  put my life on hold to write some of
