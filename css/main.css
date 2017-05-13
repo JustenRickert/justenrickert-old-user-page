@@ -11,6 +11,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+@media only screen and (min-width: 481px) {
+    body {
+        padding-top: 24px;
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+}
 nav ul, footer ul {
     font-family: 'Montserrat', Helvetica, sans-serif;
     text-transform: uppercase;

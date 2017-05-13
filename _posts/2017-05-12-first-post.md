@@ -57,7 +57,7 @@ the `tree` command on the source directory I am met with an amalgam of different
 kinds of information.  The source directory of the blog  contains 18 directories
 containing  25  different files  needing  managing  somehow. That  goes  without
 mentioning      their      depending      upon     an      understanding      of
-[jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
+[Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
 
 ![`tree` screenshot]({{ site.url }}/images/tree-first-post-screen.png)
 
