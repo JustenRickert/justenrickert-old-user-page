@@ -37,15 +37,17 @@ necessary benefit that we should not look down upon. Certainly it is true that
 what these whistle-blowers are doing or what they did is or was illegal, but
 this is only to protect those who need important information closed off from the
 general public. People giving anonymous tips about illegal behavior are kept
-anonymous for a reason; sometimes things are kept secret for some time to
-prevent hysteria; we should all understand how sometimes things are blown out of
-proportion; _etc_. However, it is that society has been able to propel itself
-forward within the last century by adhering to notions of civil liberties and
-equal rights. Through history we have come to find ourselves in opposition to
-such things as singular access to education, wealth, property, bus seats,
-commerce, _etc._; and it is here that I propose we should be more strongly
-_against_ secrecy of governmental information, particularly when it relates to
-protections we should be afforded as a nation.
+anonymous for a reason; sometimes things are meant to be kept secret for some
+time to prevent hysteria, or as a matter of
+[national security](https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69);
+we should all understand how sometimes things are blown out of proportion;
+_etc_. However, it is that society has been able to propel itself forward within
+the last century by adhering to notions of civil liberties and equal rights.
+Through history we have come to find ourselves in opposition to such things as
+singular access to education, wealth, property, bus seats, commerce, _etc._; and
+it is here that I propose we should be more strongly _against_ secrecy of
+governmental information, particularly when it relates to protections we should
+be afforded as a nation.
 
 One of the people granted commutation by the old president
 was [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning), who was a
@@ -83,15 +85,15 @@ breaking-and-entering charges and wire fraud, because he systematically
 delivered academic journal articles from JSTOR to the Internet. Upon returning
 the materials stolen to JSTOR, [JSTOR commented](http://docs.jstor.org/):
 
-> "We told the United States Attorney’s Office that we had no further interest
+> "We told the United States Attorney's Office that we had no further interest
 > in the matter and did not want to press charges. Subsequently a criminal case
-> was brought against Mr. Swartz by the United States Attorney’s Office, and he
+> was brought against Mr. Swartz by the United States Attorney's Office, and he
 > was indicted on felony charges in July 2011."
 
 At the time, JSTOR had no idea how law enforcement came to be involved in the
 matter, and they would have settled on the files simply remaining undistributed.
 However his actions, according the federal government, carried a cumulative
-maximum penalty of \$1 million in fines, 35 years in prison, asset forfeiture,
+maximum penalty of $1 million in fines, 35 years in prison, asset forfeiture,
 restitution, and supervised release. While under federal indictment for his
 alleged computer crimes, he was found to have hanged himself in his apartment.
 He was bullied by the American government deciding to make an example out of him
