@@ -2,7 +2,7 @@
 layout: post
 title: "Informational Freedom and Chelsea Manning"
 date: 2017-05-17
-published: false
+published: true
 ---
 
 On January 17, 2017, Barrack Obama
