@@ -13,8 +13,9 @@ img {
 }
 
 body {
-    margin: 60px auto;
-    width: 70%;
+    max-width: 700px;
+    margin: 30px auto;
+    /* width: 70%; */
     padding-bottom: 0;
 }
 
