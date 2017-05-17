@@ -14,8 +14,9 @@ img {
 
 body {
     max-width: 700px;
-    margin: 30px auto;
-    /* width: 70%; */
+    /* margin: 30px auto; */
+    /* width: 95%; */
+    padding: 12px;
     padding-bottom: 0;
 }
 

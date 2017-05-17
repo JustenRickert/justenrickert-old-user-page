@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Informational Freedom and Chelsea Manning"
-date: 2017-05-17
+date: 2017-05-16
 published: true
 ---
 
