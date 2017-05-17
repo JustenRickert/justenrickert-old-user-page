@@ -18,7 +18,7 @@ img {
 body {
     max-width: 900px;
     /* margin: 30px auto; */
-    width: 100%;
+    width: 90%;
     padding: 12px;
     padding-bottom: 0;
 }
@@ -57,6 +57,7 @@ a:hover {
 }
 
 h1 {
+    width: 100%;
     color: #6B6B6B;
     text-transform: uppercase;
     text-align: center;
