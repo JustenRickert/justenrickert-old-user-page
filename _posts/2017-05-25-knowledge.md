@@ -1,30 +1,45 @@
 ---
 layout: post
-title: "Knowledge"
-date: 2017-05-24
+title: "Mystical (Mathematical) Argument"
+date: 2017-05-25
 published: false
 ---
 
-I want to start by quoting Bertrand Russell. For those who don't know, Bertrand
-Russell is dead. He used to be a mathematician---but that was many years
-ago---and the reason I bring him up is, in some ways, irrelevant to this fact.
-He is important not because I knew him personally and he affected me
-specifically in some way, but rather because in his writings he seems to attempt
-making intertwined the various ideologies of human thought which he concerns
-himself with. A title of one of his essays, for example, is _Mysticism and
-Logic_, which are two things ordinarily unrelated. It is that in the essay, he
-attempts to bring together the two theories. I believe this to be a general
-human faculty, some kind of method which brings previous ideas together in
+## A Mathematical Philosopher
+
+<div class="left">
+<img src="{{ site.baseurl }}/images/bertrand-by-carlitopo.png">
+<a href="http://carlitopo.deviantart.com/art/Bertrand-Russell-376899932">Bertrand Russell</a>
+</div>
+
+I want to start by
+quoting
+[Bertrand Russell](http://www.nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html).
+For those who don't know, Bertrand Russell is dead. He used to be a
+mathematician---but that was many years ago---and the reason I bring him up is,
+in some ways, irrelevant to this fact. He is important not because I knew him
+personally and he affected me specifically in some way, but rather because in
+his writings he seems to attempt making intertwined the various ideologies of
+human thought (that I try to acquaint myself with) which he concerns himself
+with. A title of one of his essays, for example,
+is
+[_Mysticism and Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
+which are two ideas in human thoughts ordinarily unrelated. It is that in the
+essay he attempts to bring together the two theories. I believe this to be a
+general human faculty, some kind of method bringing together previous ideas in
 important, new, useful ways.
 
-In examining this sort of unionization of ideas, one probably asks about the
-reasonable platforms which the ideas might be constructed upon. Perhaps one
-could argue that it is through the English language that one constructs ideas.
-This would seem reasonable by the way that I am communicating ideas in the
-moment now. I make references to things, then use the points made by the things
-referenced to not only inform about the old ideologies referred to by the
-references, but pursue making of them something meaningful and relevant to the
-present (or at least meaningful and relevant to me).
+In examining this sort
+of
+[unionization](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets) of
+ideas, one probably asks about the reasonable platforms which the ideas might be
+constructed upon. Perhaps one could argue that it is through the English
+language that one constructs ideas. This would seem reasonable by the way that I
+am communicating ideas in the moment now. I make references to things, then use
+the points made by the things referenced to not only inform about the old
+ideologies referred to by the references, but pursue making of them something
+meaningful and relevant to the present (or at least meaningful and relevant to
+me).
 
 How I see it, Bertrand Russell presents everything by a kind of logical proof.
 He asserts relations between objects in ordinary existence. He determines the
@@ -46,21 +61,132 @@ details of the mathematics. In _Mysticism and Logic_ Russell claims there is a
 to be a sort of abstract mathematics that makes up everything that humans wish
 to share in detail. He continues later to say:
 
-> The first and most direct outcome of the moment of illumination [mystic
+> "The first and most direct outcome of the moment of illumination [mystic
 > insight] is belief in the possibility of a way of knowledge which may be
 > called revelation or insight or intuition, as contrasted with sense, reason,
 > and analysis, which are regarded as blind guides leading to the morass of
-> illusion.
+> illusion."
 
-> Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
-> beautiful. If you don't see why, someone can't tell you. I know numbers are
-> beautiful. If they aren't beautiful, nothing is ---Paul Erdős
+## Convergence of Ideas
+
+I believe this intuition to be related to the mathematical idea
+of [_convergence_](https://en.wikipedia.org/wiki/Limit_(mathematics)), in that
+the ideas of people all attempt convergence towards the same idealized phenomena
+by the laws of human argument. I will begin by rehearsing the idea of
+convergence according the laws of order in a topological number space, then I
+will relate these laws to those of order in human argument. (As an aside, I
+think perhaps the idea I am trying to represent needs to be furthered given the
+evidence that the current Wikipedia pages on the subject
+of
+[convergence with respect to logic](https://en.wikipedia.org/wiki/Convergence_(logic))
+is a stub.) The idea
+of
+[convergence](https://www.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc/v/convergent-and-divergent-sequences) when
+it comes to numbers is defined as follows:
+
+> A sequence $$(s_n)$$ is said to _converge_ to the real number $$s$$ provided
+> that for every $$\varepsilon > 0$$ there exists a natural number $$N$$ such
+> that for all $$n \in \mathbb{N}$$, $$n \ge N$$ implies that $$\left| s_n - s
+> \right| < \varepsilon$$.
+
+### Numbers
+
+As a demonstration, imagine a sequence of numbers converging to the number $$0$$
+such that $$s = 0$$. Let the beginning value of the sequence $$s_1$$ be $$1$$,
+and let the sequence be defined such that $$s_i = \frac{s_{i - 1}}{2}$$ for all
+$$i > 1$$. This means that $$s_2 = \frac{1}{2}, s_3 = \frac{1}{4}, s_4 =
+\frac{1}{8}, ...,$$ _etc_. From the listing of the elements it should be
+intuitive that the values of the sequence approach the number $$0$$, but never
+actually includes the value $$s = 0$$ even the sequence will always be
+converging closer and closer to the value $$s$$.
+
+For the matter of proving the convergence of the sequence, imagine a value
+$$\varepsilon = \frac{1}{8}$$. In order that the definition holds given this
+particular $$\varepsilon$$, there needs exist a natural number $$N$$ such that
+the difference of each value of the sequence $$s_n$$ to the value $$s$$ is less
+than the value $$\varepsilon$$ whenever $$n \ge N$$. Having the given
+$$\varepsilon = \frac{1}{8}$$, it should be clear that whenever $$n \ge 5$$, the
+value of the sequence $$s_n$$ is going to be less than $$\frac{1}{8}$$ (this is
+because $$s_5 = \frac{1}{16}$$, and each $$s_n$$ after $$s_5$$ in the sequence
+is going to be smaller that it by the definition given for the sequence
+$$s_n$$); therefore $$\left| s_n - s \right| < \varepsilon$$ whenever $$n \ge
+5$$ (because $$\left| s_n - 0 \right| < \frac{1}{8}$$ whenever $$n \ge 5$$). It
+still remains to be proven that the definition holds for _any_ $$\varepsilon$$,
+however the remainder of this proof is left as an exercise for the reader.
+
+### Arguments and Ideas
+
+To restate my thesis, I propose again that this type of convergence has an
+analogue when it comes to making natural arguments. It is that (and I hope you
+will see the similarities between the definitions of convergence):
+
+> A sequence of statements, an argument, _converges_ to the complete explanation
+> of a phenomenon, when any ordinary person having intuition can understand the
+> phenomenon being described, which happens only if the difference of
+> understanding between the arguer and the listener is sufficiently negligible
+> to allow both sides to be acquainted with the same phenomenon whenever the
+> argument exceeds a certain length depending on the arguer and listener in
+> question.
+
+Consider an argument of a human sensation "I am sad because my dog died." Most
+listeners to this statement will not need much further explanation, as most
+modern societies have long understood the companionship that people are capable
+of having with their domesticated animals. However if there is a society of
+people not having ever domesticated pets, then they may not understand
+completely this short explanation of the sensation. Nevertheless, in this case
+it suffices to merely give a longer argument, though it may take constructing a
+comparison between human-human or human-object relationships that the society
+_is_ capable of understanding. This would be true under the assumption that this
+society has relationship assignments similar to our own (as is human), or
+upholds spiritual significance of ordinary objects (as is usually human). The
+furthered argument may be something like "I am sad because my dog died, which is
+similar to the feeling I would have if I lost my son or the precious,
+spiritually significant cross ordinarily worn around my neck."
+
+(_Parenthetical remark_: If at this point you are beginning to understand the
+point that I am making, then please take a look at my mathematics paper
+exploring this idea in relation
+to
+[computational methods of generative grammars]({{ site.baseurl }}/files/thehumanautomaton.pdf).)
+
+<div><svg class="left" width="100" height="100">
+<circle cx="50" cy="50" r="40" stroke-width="1" stroke="black" fill="white" />
+<circle cx="50" cy="50" r="2" stroke-width="2" stroke="black" fill="black" />
+</svg></div>
+
+I like to picture it as what is called
+the [Monad](https://en.wikipedia.org/wiki/Monad_(philosophy)) (or
+perhaps [The Absolute](https://en.wikipedia.org/wiki/Absolute_(philosophy))).
+
+Any person can approach the point at the center of the image in the way that
+they are beginning to become acquainted with the argument, but only
+realistically stand on the circumference of the circle. I imagine the
+circumference to be human intuition, where the explanation of a phenomenon to
+another is merely synonymous with pointing towards the center of the monad which
+represents abstractly the phenomenon. (When a listener move closer to the
+position of the arguer, it is that they must be moving closer to the center of
+the monad.) Because human experience and argumentative explication consist only
+of a finite set of sensations, exact equality between understanding the
+phenomenon and being acquainted with it is impossible, and so the form of the
+monad will always be circle with a dot at the middle of it. In another work of
+Bertrand
+Russell,
+[he states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
 
 > "It often happens that we know that a certain phrase denotes unambiguously,
 > although we have no acquaintance with what it denotes.... In perception we
-> have acquaintance with objects of a more abstract logical character; but we do
-> not necessarily have acquaintance with the objects denoted by phrases composed
-> of words with whose meanings we are acquainted.... All thinking has to start
+> have acquaintance with objects of perception, and in thought we have
+> acquaintance with objects of a more abstract logical character; but we do not
+> necessarily have acquaintance with the objects denoted by phrases composed of
+> words with whose meanings we are acquainted. To take a very important
+> instance: There seems no reason to believe that we are ever acquainted with
+> other people's minds, seeing that these are not directly perceived; hence what
+> we know about them is obtained through denoting. All thinking has to start
 > from acquaintance; but it succeeds in thinking _about_ many things with which
 > we have no acquaintance." ---Bertrand Russell, _On Denoting_
 
+
+
+> "Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
+> beautiful. If you don't see why, someone can't tell you. I know numbers are
+> beautiful. If they aren't beautiful, nothing is." ---Paul Erdős
