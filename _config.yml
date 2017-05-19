@@ -1,4 +1,7 @@
-name: Justen Rickert
+exclude:
+  - devserve
+future: false
 gems:
   - jekyll-sitemap
 google-analytics: UA-99443259-1
+name: Justen Rickert

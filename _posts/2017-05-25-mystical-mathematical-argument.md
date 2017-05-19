@@ -56,10 +56,10 @@ sentence constructions.
 It is my belief that mathematics represents that without ambiguity. I have come
 to find that more natural languages cannot represent exactly what mathematics
 does, even though these languages are eventually the things which share the
-details of the mathematics. In _Mysticism and Logic_ Russell claims there is a
-"mystic insight" which "begins with a sense of mystery unveiled." I believe this
-to be a sort of abstract mathematics that makes up everything that humans wish
-to share in detail. He continues later to say:
+details of the mathematics. In _Mysticism and Logic_ Bertrand Russell claims
+there is a "mystic insight" which "begins with a sense of mystery unveiled." I
+believe this to be a sort of abstract mathematics that makes up everything that
+humans wish to share in detail. He continues later to say:
 
 > "The first and most direct outcome of the moment of illumination [mystic
 > insight] is belief in the possibility of a way of knowledge which may be
@@ -67,13 +67,30 @@ to share in detail. He continues later to say:
 > and analysis, which are regarded as blind guides leading to the morass of
 > illusion."
 
+People regard science as that which is correct. However, science can only
+provide evidence to that which does not seem wrong. An assertion of the abstract
+cannot be refuted as it is not bound in concrete existence whereas science deals
+with that which _is_ concrete. In this way, it is intuition which is proper
+where modernity has come to prefer respecting that which is reasonable; rather
+in the world of argument it is that which comes from revelation or insight that
+is preferable and making sense of the evidence still obviously relies on there
+merely being evidence. In mathematics, what is proper is induction, called the
+forward implication that promises what is to be the truth of a matter based upon
+some axiom or set of axioms, whereas the converse relies on recurrence and fails
+among groups of ideas not freely generated (which is to say that when there is
+found something recurrent, there are only assumptions which point to the
+antecedent that caused it, and assumptions cannot lead to establishing anything
+axiomatic). What follows is an examination of a relation between that which we
+argue, and that which is unquestionable. It is my proposal that these two ends
+are convergent.
+
 ## Convergence of Ideas
 
-I believe this intuition to be related to the mathematical idea
+I believe intuition to be related to the mathematical idea
 of [_convergence_](https://en.wikipedia.org/wiki/Limit_(mathematics)), in that
 the ideas of people all attempt convergence towards the same idealized phenomena
 by the laws of human argument. I will begin by rehearsing the idea of
-convergence according the laws of order in a topological number space, then I
+convergence according to the laws of order in a topological number space, then I
 will relate these laws to those of order in human argument. (As an aside, I
 think perhaps the idea I am trying to represent needs to be furthered given the
 evidence that the current Wikipedia pages on the subject
@@ -81,8 +98,8 @@ of
 [convergence with respect to logic](https://en.wikipedia.org/wiki/Convergence_(logic))
 is a stub.) The idea
 of
-[convergence](https://www.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc/v/convergent-and-divergent-sequences) when
-it comes to numbers is defined as follows:
+[convergence](https://www.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc/v/convergent-and-divergent-sequences),
+in consideration of numbers, is defined as follows:
 
 > A sequence $$(s_n)$$ is said to _converge_ to the real number $$s$$ provided
 > that for every $$\varepsilon > 0$$ there exists a natural number $$N$$ such
@@ -165,11 +182,12 @@ circumference to be human intuition, where the explanation of a phenomenon to
 another is merely synonymous with pointing towards the center of the monad which
 represents abstractly the phenomenon. (When a listener move closer to the
 position of the arguer, it is that they must be moving closer to the center of
-the monad.) Because human experience and argumentative explication consist only
-of a finite set of sensations, exact equality between understanding the
+the monad, as their positions should also never be capable of existing in the
+same location.) Because human experience and argumentative explication consist
+only of a finite set of sensations, exact equality between understanding the
 phenomenon and being acquainted with it is impossible, and so the form of the
-monad will always be circle with a dot at the middle of it. In another work of
-Bertrand
+monad will always be the circle with a dot at the middle of it. In another work
+of Bertrand
 Russell,
 [he states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
 
@@ -185,7 +203,11 @@ Russell,
 > from acquaintance; but it succeeds in thinking _about_ many things with which
 > we have no acquaintance." ---Bertrand Russell, _On Denoting_
 
-
+I will not say anything on the subject. (I do not want to embark on the subject
+of denotation.) Rather, I will end the blog post with a quote by Paul Erdős,
+another mathematician. To me, denotation is beauty, and being able to make
+comparison between something another thing unambiguous like numbers is
+beautiful.
 
 > "Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
 > beautiful. If you don't see why, someone can't tell you. I know numbers are
