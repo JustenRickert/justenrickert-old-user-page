@@ -2,7 +2,7 @@
 layout: post
 title: "Mystical (Mathematical) Argument"
 date: 2017-05-25
-published: false
+published: true
 ---
 
 ## A Mathematical Philosopher
@@ -206,8 +206,8 @@ Russell,
 I will not say anything on the subject. (I do not want to embark on the subject
 of denotation.) Rather, I will end the blog post with a quote by Paul Erdős,
 another mathematician. To me, denotation is beauty, and being able to make
-comparison between something another thing unambiguous like numbers is
-beautiful.
+comparison between something and another thing that is unambiguous like numbers
+is beautiful.
 
 > "Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
 > beautiful. If you don't see why, someone can't tell you. I know numbers are

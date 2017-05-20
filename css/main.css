@@ -30,6 +30,22 @@ img {
     font-size: .7em;
 }
 
+nav ul, footer ul {
+    font-family: Montserrat;
+    font-weight: normal;
+    padding: 10px;
+    list-style: none;
+    text-transform: lowercase;
+}
+
+nav ul li, footer ul li {
+    font-size: 1.1em;
+    display: inline;
+    margin-right: 20px;
+    list-style: square;
+    text-transform: lowercase;
+}
+
 body {
     max-width: 700px;
     width: 85%;
@@ -37,27 +53,16 @@ body {
     margin-right: auto;
 }
 
+body li {
+    font-family: montserrat;
+    list-style: square;
+}
+
 @media only screen and (min-width: 481px) {
     body {
         padding-top: 0px;
         padding-bottom: 48px;
     }
-}
-
-nav ul, footer ul {
-    font-family: Montserrat;
-    font-weight: normal;
-    padding: 10px;
-    list-style: none;
-    font-weight: bold;
-    text-transform: lowercase;
-}
-
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-    list-style: square
-    text-transform: lowercase;
 }
 
 a {
@@ -88,15 +93,19 @@ h1, h2, h3 {
 
 p {
     font-family: Nunito, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 1.0em;
     line-height: 1.4em;
-    color: #333;
+    color: #222;
 }
 
 p a {
     color: #222;
     text-decoration: underline;
+}
+
+p li {
+    font-family: Nunito, sans-serif;
 }
 
 p a:hover {
@@ -107,28 +116,13 @@ p a:visited {
     text-decoration: underline;
 }
 
+#nav {
+    font-size: 1.1em;
+}
+
 footer {
     border-top: 1px solid #6B6B6B;
-    font-size: .8em;
+    font-size: .9em;
     text-align: right;
 }
 
-ul.posts {
-    font-family: Montserrat, sans-serif;
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-}
-
-ul.posts a {
-    text-decoration: underline;
-}
-
-ul.posts li {
-    list-style: square;
-}
-
-/* Pulse */
-
-@keyframes pulse-shrink {
-    to {transform: scale(.9);}
-}
