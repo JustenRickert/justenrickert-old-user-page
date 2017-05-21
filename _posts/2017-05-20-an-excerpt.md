@@ -58,8 +58,8 @@ dispute the original meaning of the rock's existence; just as the man endeavored
 previously, he will continue; as such the argument will go on according with the
 man's own dissatisfaction with the universe.
 
-I believe this arguing to be a sort of mathematics <!-- ({% post_url
-2017-05-23-mystical-mathematical-argument %}) --> that we are always trying to
+I believe this arguing to be a sort of mathematics
+that we are always trying to
 better. It is something that should have been perfect as the viewport in front
 of us, that when found to be imperfect lead us to try to correct it. That is
 because this sort of mathematics should have been correct and verifiable (such
