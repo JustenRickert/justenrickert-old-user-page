@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "An Excerpt"
+tags: Creative writing
 date: 2017-05-20
 published: true
 ---
@@ -54,18 +55,18 @@ that the apparent law established by the rock was only meant to make the man
 repudiate his actions. In this state, the existence of the sharp utensil
 purportedly only confirms the possibility of hurting the man who endeavored to
 dispute the original meaning of the rock's existence; just as the man endeavored
-previously, he will continue to, as so the argument will go on according the
+previously, he will continue; as such the argument will go on according with the
 man's own dissatisfaction with the universe.
 
-I believe this arguing to a sort of mathematics <!-- [arguing to be a sort of
-mathematics]({{ site.baseurl }}/2017/05/25/mystical-mathematical-argument.html) --> that we are always trying
-to better. It is something that should have been perfect as the viewport in
-front of us, mathematics, that when found to be imperfect lead us to try to
-correct it. That is because this sort of mathematics should have been correct
-and verifiable (such is this definition of mathematics). It is a contradiction
-to say that the mathematics which should always consist of true statements leads
-one to consider that the opposite of one of the statements was actually false.
-Were it not for the contradiction then the laws of mathematics would be
-inconsistent in that it did not contain the contradiction, but were it not for
-the contradiction nobody would attempt to argue better the laws of argument. And
-so it goes.
+I believe this arguing to be a sort of mathematics <!-- ({% post_url
+2017-05-23-mystical-mathematical-argument %}) --> that we are always trying to
+better. It is something that should have been perfect as the viewport in front
+of us, that when found to be imperfect lead us to try to correct it. That is
+because this sort of mathematics should have been correct and verifiable (such
+is this definition of mathematics). It is the contradiction that says
+mathematics, which should always consist of true statements, leads one to
+consider that the opposite of one of the statements was actually false. This is
+however useful, as were it not for the contradiction then the laws of
+mathematics would be inconsistent in that they would not contain the
+contradiction, but were it not for the contradiction nobody would attempt to
+argue better the laws of argument. And so it goes.

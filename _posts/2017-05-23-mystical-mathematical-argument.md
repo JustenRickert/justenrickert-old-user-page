@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Mystical (Mathematical) Argument"
-date: 2017-05-25
+tags: Mathematics, Bertrand Russell, Argument
+date: 2017-05-23
 published: true
 ---
 
@@ -12,28 +13,25 @@ published: true
 <a href="http://carlitopo.deviantart.com/art/Bertrand-Russell-376899932">Bertrand Russell</a>
 </div>
 
-I want to start by
-quoting
-[Bertrand Russell](http://www.nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html).
+I want to start by quoting [Bertrand
+Russell](http://www.nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html).
 For those who don't know, Bertrand Russell is dead. He used to be a
 mathematician---but that was many years ago---and the reason I bring him up is,
 in some ways, irrelevant to this fact. He is important not because I knew him
 personally and he affected me specifically in some way, but rather because in
 his writings he seems to attempt making intertwined the various ideologies of
 human thought (that I try to acquaint myself with) which he concerns himself
-with. A title of one of his essays, for example,
-is
-[_Mysticism and Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
+with. A title of one of his essays, for example, is [_Mysticism and
+Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
 which are two ideas in human thoughts ordinarily unrelated. It is that in the
 essay he attempts to bring together the two theories. I believe this to be a
 general human faculty, some kind of method bringing together previous ideas in
 important, new, useful ways.
 
-In examining this sort
-of
-[unionization](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets) of
-ideas, one probably asks about the reasonable platforms which the ideas might be
-constructed upon. Perhaps one could argue that it is through the English
+In examining this sort of
+[unionization](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
+of ideas, one probably asks about the reasonable platforms which the ideas might
+be constructed upon. Perhaps one could argue that it is through the English
 language that one constructs ideas. This would seem reasonable by the way that I
 am communicating ideas in the moment now. I make references to things, then use
 the points made by the things referenced to not only inform about the old
@@ -86,17 +84,15 @@ are convergent.
 
 ## Convergence of Ideas
 
-I believe intuition to be related to the mathematical idea
-of [_convergence_](https://en.wikipedia.org/wiki/Limit_(mathematics)), in that
-the ideas of people all attempt convergence towards the same idealized phenomena
-by the laws of human argument. I will begin by rehearsing the idea of
-convergence according to the laws of order in a topological number space, then I
-will relate these laws to those of order in human argument. (As an aside, I
-think perhaps the idea I am trying to represent needs to be furthered given the
-evidence that the current Wikipedia pages on the subject
-of
-[convergence with respect to logic](https://en.wikipedia.org/wiki/Convergence_(logic))
-is a stub.) The idea
+I believe intuition to be related to the mathematical idea of
+[_convergence_](https://en.wikipedia.org/wiki/Limit_(mathematics)), in that the
+ideas of people all attempt convergence towards the same idealized phenomena by
+the laws of human argument. I will begin by rehearsing the idea of convergence
+according to the laws of order in a topological number space, then I will relate
+these laws to those of order in human argument. (As an aside, I think perhaps
+the idea I am trying to represent needs to be furthered given the evidence that
+the current Wikipedia pages on the subject of [convergence with respect to
+logic](https://en.wikipedia.org/wiki/Convergence_(logic)) is a stub.) The idea
 of
 [convergence](https://www.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc/v/convergent-and-divergent-sequences),
 in consideration of numbers, is defined as follows:
@@ -162,9 +158,8 @@ spiritually significant cross ordinarily worn around my neck."
 
 (_Parenthetical remark_: If at this point you are beginning to understand the
 point that I am making, then please take a look at my mathematics paper
-exploring this idea in relation
-to
-[computational methods of generative grammars]({{ site.baseurl }}/files/thehumanautomaton.pdf).)
+exploring this idea in relation to [computational methods of generative
+grammars]({{ site.baseurl }}/files/thehumanautomaton.pdf).)
 
 <div><svg class="left" width="100" height="100">
 <circle cx="50" cy="50" r="40" stroke-width="1" stroke="black" fill="white" />
@@ -187,9 +182,8 @@ same location.) Because human experience and argumentative explication consist
 only of a finite set of sensations, exact equality between understanding the
 phenomenon and being acquainted with it is impossible, and so the form of the
 monad will always be the circle with a dot at the middle of it. In another work
-of Bertrand
-Russell,
-[he states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
+of Bertrand Russell, [he
+states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
 
 > "It often happens that we know that a certain phrase denotes unambiguously,
 > although we have no acquaintance with what it denotes.... In perception we

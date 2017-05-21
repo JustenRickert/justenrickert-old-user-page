@@ -1,5 +1,5 @@
-exclude:
-  - devserve
+encoding: utf-8
+exclude: [devserve, Gemfile, Gemfile.lock]
 future: false
 gems:
   - jekyll-sitemap

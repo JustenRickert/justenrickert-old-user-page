@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Informational Freedom and Chelsea Manning"
+title: "Informational Freedom"
+tags: Social Justice, Edward Snowden, Chelsea Manning, Aaron Schwartz
 date: 2017-05-16
 published: true
 ---
@@ -65,18 +66,20 @@ afford all of the books and education their hearts desired without having to
 worry if they were going to be able to live or eat the next day. Perhaps that is
 hyperbole, but nonetheless it is true of the modern age that we value equality.
 
-More to the point of the blog post, tomorrow [Chelsea Manning](http://www.nbcnews.com/news/us-news/chelsea-manning-set-be-released-prison-still-not-free-n759676) is scheduled to be
-released. Though it is not without heartache, and it is not without having been
-so scared to death to have felt the need to [attempt suicide](http://www.nbcnews.com/news/us-news/chelsea-manning-again-attempts-suicide-prison-attorney-says-n678386), to go on a hunger
-strike, or to be a proponent to informational freedom all while being bullied,
-alienated, and segregated by the very government meant to be the protector of
-its citizens. But it is not just Chelsea Manning. As I have said, Edward Snowden
-feels persecuted by the American government. An intelligent man once working
-hand in hand with his administration but since betrayed, now turned information
-activist. There is also Aaron Schwartz, once a research fellow at Harvard
-University, once a contributor to online content standardization, once a
-propagator of information to the masses, once a great man, programmer, activist,
-icon, _etc_.
+More to the point of the blog post, tomorrow [Chelsea
+Manning](http://www.nbcnews.com/news/us-news/chelsea-manning-set-be-released-prison-still-not-free-n759676)
+is scheduled to be released. Though it is not without heartache, and it is not
+without having been so scared to death to have felt the need to [attempt
+suicide](http://www.nbcnews.com/news/us-news/chelsea-manning-again-attempts-suicide-prison-attorney-says-n678386),
+to go on a hunger strike, or to be a proponent to informational freedom all
+while being bullied, alienated, and segregated by the very government meant to
+be the protector of its citizens. But it is not just Chelsea Manning. As I have
+said, Edward Snowden feels persecuted by the American government. An intelligent
+man once working hand in hand with his administration but since betrayed, now
+turned information activist. There is also Aaron Schwartz, once a research
+fellow at Harvard University, once a contributor to online content
+standardization, once a propagator of information to the masses, once a great
+man, programmer, activist, icon, _etc_.
 
 On January 6, 2011, [Aaron Schwartz](http://www.aaronsw.com/) was arrested by
 MIT police on breaking-and-entering charges and wire fraud, because he

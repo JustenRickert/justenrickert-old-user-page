@@ -49,12 +49,15 @@ nav ul li, footer ul li {
 body {
     max-width: 700px;
     width: 85%;
+    font-size: 1.1em;
     margin-left: auto;
     margin-right: auto;
 }
 
 body li {
-    font-family: montserrat;
+    font-family: Nunito;
+    font-size: 1.1em;
+    font-weight: 500;
     list-style: square;
 }
 
