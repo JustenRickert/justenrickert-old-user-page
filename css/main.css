@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-
 img {
-    display: block;             /*centers the image*/
+    display: block;
+    /*centers the image*/
     margin: 0 auto;
     max-width: 100%;
     width: auto;
@@ -30,7 +30,8 @@ img {
     font-size: .7em;
 }
 
-nav ul, footer ul {
+nav ul,
+footer ul {
     font-family: Montserrat;
     font-weight: normal;
     padding: 10px;
@@ -38,7 +39,8 @@ nav ul, footer ul {
     text-transform: lowercase;
 }
 
-nav ul li, footer ul li {
+nav ul li,
+footer ul li {
     font-size: 1.1em;
     display: inline;
     margin-right: 20px;
@@ -85,11 +87,14 @@ h1 {
     text-align: center;
 }
 
-h2, h3 {
+h2,
+h3 {
     color: #222;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: Montserrat, sans-serif;
     font-weight: 700;
 }
@@ -98,10 +103,13 @@ article {
     text-align: left-justify;
 }
 
-article p {
+p {
     font-family: Nunito, sans-serif;
     font-weight: 500;
     font-size: 1.0em;
+}
+
+article p {
     line-height: 1.4em;
     color: #222;
 }
@@ -132,4 +140,3 @@ footer {
     font-size: .9em;
     text-align: right;
 }
-
