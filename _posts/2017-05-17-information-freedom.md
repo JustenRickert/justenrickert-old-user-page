@@ -42,7 +42,7 @@ general public. People giving anonymous tips about illegal behavior are kept
 anonymous for a reason; sometimes things are meant to be kept secret for some
 time to prevent hysteria, or as a matter of [national security](https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69);
 we should all understand how sometimes things are blown out of proportion;
-_etc_. However, it is that society has been able to propel itself forward within
+etc. However, it is that society has been able to propel itself forward within
 the last century by adhering to notions of civil liberties and equal rights.
 Through history we have come to find ourselves in opposition to such things as
 singular access to education, wealth, property, bus seats, commerce, _etc._; and
@@ -79,7 +79,7 @@ man once working hand in hand with his administration but since betrayed, now
 turned information activist. There is also Aaron Schwartz, once a research
 fellow at Harvard University, once a contributor to online content
 standardization, once a propagator of information to the masses, once a great
-man, programmer, activist, icon, _etc_.
+man, programmer, activist, icon, etc.
 
 On January 6, 2011, [Aaron Schwartz](http://www.aaronsw.com/) was arrested by
 MIT police on breaking-and-entering charges and wire fraud, because he
@@ -98,8 +98,9 @@ However his actions, according the federal government, carried a cumulative
 maximum penalty of $1 million in fines, 35 years in prison, asset forfeiture,
 restitution, and supervised release. While under federal indictment for his
 alleged computer crimes, he was found to
-have [hanged himself in his apartment](http://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream)
-He was bullied by the American government deciding to make an example out of him
+have
+[hanged himself in his apartment](http://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream) He
+was bullied by the American government deciding to make an example out of him
 even after the victim of the crime decidedly did not feel victimized.
 
 In any case. It is my point to implore you all to be more aware of goings-on

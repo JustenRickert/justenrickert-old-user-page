@@ -13,16 +13,18 @@ published: true
 <a href="http://carlitopo.deviantart.com/art/Bertrand-Russell-376899932">Bertrand Russell</a>
 </div>
 
-I want to start by quoting [Bertrand
-Russell](http://www.nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html).
+I want to start by
+quoting
+[Bertrand Russell](http://www.nobelprize.org/nobel_prizes/literature/laureates/1950/russell-bio.html).
 For those who don't know, Bertrand Russell is dead. He used to be a
-mathematician---but that was many years ago---and the reason I bring him up is,
-in some ways, irrelevant to this fact. He is important not because I knew him
-personally and he affected me specifically in some way, but rather because in
-his writings he seems to attempt making intertwined the various ideologies of
+mathematician --- but that was many years ago --- and the reason I bring him up
+is, in some ways, irrelevant to this fact. He is important not because I knew
+him personally and he affected me specifically in some way, but rather because
+in his writings he seems to attempt making intertwined the various ideologies of
 human thought (that I try to acquaint myself with) which he concerns himself
-with. A title of one of his essays, for example, is [_Mysticism and
-Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
+with. A title of one of his essays, for example,
+is
+[_Mysticism and Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
 which are two ideas in human thoughts ordinarily unrelated. It is that in the
 essay he attempts to bring together the two theories. I believe this to be a
 general human faculty, some kind of method bringing together previous ideas in
@@ -45,8 +47,8 @@ truth or falsehood of the statements in relations to themselves. Then attempts
 determination of all of the possible outcomes given the assumptions. These
 assertions, however, require something to make it all plausible. He often times
 makes his arguments through ordinary English, but he could also present the
-ideas in other languages that he is well aware of---like French and German,
-which are two other languages belonging to him---however it was at the beginning
+ideas in other languages that he is well aware of --- like French and German,
+which are two other languages belonging to him --- however it was at the beginning
 that I called him mathematician, and so it is rather with the particular
 platform of mathematics that I believe he authors the native beliefs of his
 sentence constructions.
@@ -108,7 +110,7 @@ As a demonstration, imagine a sequence of numbers converging to the number $$0$$
 such that $$s = 0$$. Let the beginning value of the sequence $$s_1$$ be $$1$$,
 and let the sequence be defined such that $$s_i = \frac{s_{i - 1}}{2}$$ for all
 $$i > 1$$. This means that $$s_2 = \frac{1}{2}, s_3 = \frac{1}{4}, s_4 =
-\frac{1}{8}, ...,$$ _etc_. From the listing of the elements it should be
+\frac{1}{8}, ...,$$ etc. From the listing of the elements it should be
 intuitive that the values of the sequence approach the number $$0$$, but never
 actually includes the value $$s = 0$$ even the sequence will always be
 converging closer and closer to the value $$s$$.
@@ -195,7 +197,7 @@ states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
 > other people's minds, seeing that these are not directly perceived; hence what
 > we know about them is obtained through denoting. All thinking has to start
 > from acquaintance; but it succeeds in thinking _about_ many things with which
-> we have no acquaintance." ---Bertrand Russell, _On Denoting_
+> we have no acquaintance." --- Bertrand Russell, _On Denoting_
 
 I will not say anything on the subject. (I do not want to embark on the subject
 of denotation.) Rather, I will end the blog post with a quote by Paul Erdős,
@@ -205,4 +207,4 @@ is beautiful.
 
 > "Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
 > beautiful. If you don't see why, someone can't tell you. I know numbers are
-> beautiful. If they aren't beautiful, nothing is." ---Paul Erdős
+> beautiful. If they aren't beautiful, nothing is." --- Paul Erdős

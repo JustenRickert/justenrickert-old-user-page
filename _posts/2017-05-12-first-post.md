@@ -33,7 +33,7 @@ on my computer (words, files, directories, other programs,
 [butterflies](https://xkcd.com/378/)) all conveniently with only the keys at my
 fingertips. That is, I need not take the time to move my hands to and from the
 mouse to highlight text, to drag and drop things, or to scroll windows up and
-down pages, _etc_.
+down pages, etc.
 
 It may seem strange to want to use such a primitive-looking editing program to
 do such a thing. If you were wondering, that is a screenshot of the entire face

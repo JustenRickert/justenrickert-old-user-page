@@ -18,20 +18,20 @@ published: true
 > larger one. When the rocks collided, debris from the collision scattered
 > across the ground all around. The noise from the impact quickly subsided.
 
-> "Several shards of smaller rock sat freshly partitioned into slivers. The man
-> took one of the larger slivers into his hand and uttered something under his
-> breath, which was followed by amazement according his countenance. He squeezed
-> the rock with enough force to then find a fresh cut dripping blood from his
-> palm, as the rock happened to have become sharp at the spot where chips of
-> itself had broken off. His knees bent so his hands could reach the ground. His
-> hands grasped some dry dirt, which then dressed his wound. His mouth spoke
-> again with reaction, but not to anyone and not of anything in particular. He
+> "Shards of smaller rock sat freshly partitioned into slivers. The man took one
+> of the larger slivers into his hand and uttered something under his breath,
+> followed by amazement according his countenance. He squeezed the rock with
+> enough force to then find a fresh cut dripping blood from his palm, as the
+> rock happened to have become sharp at the spot where chips of itself had
+> broken off. His knees bent so his hands could reach the ground. His hands
+> grasped some dry dirt, which then dressed his wound. His mouth spoke again
+> with reaction, but not to anyone and not of anything in particular. He
 > continued to work the shape of the rock to better match the image of the
 > finished product of it he had in his head."
 
 There are laws to argument. There exist laws in the fabric of the universe that
-people are always meant to be trying to figure out. They are encoded somehow in
-the syntax of conversation. As a blur at first, but then through repetition they
+people are always meant to be trying to figure out. The syntax of conversation
+encoded the laws somehow. As a blur at first, but then through repetition they
 become clearer. It is through this decision to reiterate through them, to
 practice the scenarios in our heads, to rearrange the possibilities of what
 could have happened that makes what we think important. It is by a sort of
@@ -58,8 +58,8 @@ dispute the original meaning of the rock's existence; just as the man endeavored
 previously, he will continue; as such the argument will go on according with the
 man's own dissatisfaction with the universe.
 
-I believe this arguing to be a sort of mathematics
-that we are always trying to
+I believe this arguing to be a sort of mathematics <!-- ({% post_url
+2017-05-23-mystical-mathematical-argument %}) --> that we are always trying to
 better. It is something that should have been perfect as the viewport in front
 of us, that when found to be imperfect lead us to try to correct it. That is
 because this sort of mathematics should have been correct and verifiable (such
