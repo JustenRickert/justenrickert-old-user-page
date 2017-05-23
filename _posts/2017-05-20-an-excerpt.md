@@ -31,19 +31,18 @@ published: true
 
 There are laws to argument. There exist laws in the fabric of the universe that
 people are always meant to be trying to figure out. The syntax of conversation
-encoded the laws somehow. As a blur at first, but then through repetition they
+encodes the laws somehow. As a blur at first, but then through repetition they
 become clearer. It is through this decision to reiterate through them, to
 practice the scenarios in our heads, to rearrange the possibilities of what
-could have happened that makes what we think important. It is by a sort of
+could have happened which makes what we think important. It is by a sort of
 argument that we understand better the laws of argument; circularly we argue the
 laws which turn around our thoughts and causes us to improve the laws we
 initially set our gaze upon to argue. Perhaps that is the purpose of existence;
 to figure out this argument; to see the laws in the fabric of our daily lives
 and to decide that there needs to be something common in our group understanding
-of the event, then needing that there is a denotation according to some fashion
-which reestablishes the laws in a way better suited to making apparent the
-initial individual comprehension of the law, where the primordial law
-established what it meant to argue.
+of the event, a denotation, then needing that the denotation needs
+reestablishment to better suit the law in making apparent the initial individual
+comprehension of the law, again establishing what is meant to argue.
 
 To the original man, it was an inspiration of some kind. He found that the force
 of his proceedings, his hand striking together rocks, caused the rocks to break.
@@ -53,10 +52,10 @@ Then the rock argued it could not be useful; it could not be sharp. As the man
 cuts his hand on the newly found sharp edge of the rock, it becomes clear to him
 that the apparent law established by the rock was only meant to make the man
 repudiate his actions. In this state, the existence of the sharp utensil
-purportedly only confirms the possibility of hurting the man who endeavored to
-dispute the original meaning of the rock's existence; just as the man endeavored
-previously, he will continue; as such the argument will go on according with the
-man's own dissatisfaction with the universe.
+purportedly only hurts the man who endeavors to dispute the original meaning of
+the rock's existence; though just as the man endeavored previously, he will
+continue. As such the argument will go on according with the man's own
+dissatisfaction with the universe.
 
 I believe
 this
@@ -67,7 +66,7 @@ correct it. That is because this sort of mathematics should have been correct
 and verifiable (such is this definition of mathematics). It is the contradiction
 that says mathematics, which should always consist of true statements, leads one
 to consider that the opposite of one of the statements was actually false. This
-is however useful, as were it not for the contradiction then the laws of
+is however useful, as were it _not_ for the contradiction then the laws of
 mathematics would be inconsistent in that they would not contain the
-contradiction, but were it not for the contradiction nobody would attempt to
-argue better the laws of argument. And so it goes.
+contradiction, but also were it not for the contradiction nobody would attempt
+to argue better the laws of argument. And so it goes.
