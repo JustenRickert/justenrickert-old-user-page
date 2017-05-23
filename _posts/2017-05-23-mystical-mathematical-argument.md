@@ -1,12 +1,11 @@
 ---
 layout: post
+mathjax: true
 title: "Mystical (Mathematical) Argument"
 tags: Mathematics, Bertrand Russell, Argument
 date: 2017-05-23
 published: true
 ---
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ## A Mathematical Philosopher
 
@@ -102,7 +101,7 @@ of
 [convergence](https://www.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc/v/convergent-and-divergent-sequences),
 in consideration of numbers, is defined as follows:
 
-> A sequence $$(s_n)$$ is said to _converge_ to the real number $$s$$ provided
+> A sequence $$(s_n)$$ is said to __converge__ to the real number $$s$$ provided
 > that for every $$\varepsilon > 0$$ there exists a natural number $$N$$ such
 > that for all $$n \in \mathbb{N}$$, $$n \ge N$$ implies that $$\left| s_n - s
 > \right| < \varepsilon$$.
@@ -113,9 +112,9 @@ As a demonstration, imagine a sequence of numbers converging to the number $$0$$
 such that $$s = 0$$. Let the beginning value of the sequence $$s_1$$ be $$1$$,
 and let the sequence be defined such that $$s_i = \frac{s_{i - 1}}{2}$$ for all
 $$i > 1$$. This means that $$s_2 = \frac{1}{2}, s_3 = \frac{1}{4}, s_4 =
-\frac{1}{8}, ...,$$ etc. From the listing of the elements it should be
-intuitive that the values of the sequence approach the number $$0$$, but never
-actually includes the value $$s = 0$$ even the sequence will always be
+\frac{1}{8}, ...,$$ etc. From the listing of the elements it should be intuitive
+that the values of the sequence approach the number $$0$$, but never actually
+includes the value $$s = 0$$ --- even though the sequence will always be
 converging closer and closer to the value $$s$$.
 
 For the matter of proving the convergence of the sequence, imagine a value
@@ -138,13 +137,13 @@ To restate my thesis, I propose again that this type of convergence has an
 analogue when it comes to making natural arguments. It is that (and I hope you
 will see the similarities between the definitions of convergence):
 
-> A sequence of statements, an argument, _converges_ to the complete explanation
-> of a phenomenon, when any ordinary person having intuition can understand the
-> phenomenon being described, which happens only if the difference of
-> understanding between the arguer and the listener is sufficiently negligible
-> to allow both sides to be acquainted with the same phenomenon whenever the
-> argument exceeds a certain length depending on the arguer and listener in
-> question.
+> A sequence of statements, an argument, __converges__ to the complete
+> explanation of a phenomenon, when any ordinary person having intuition can
+> understand the phenomenon being described, which happens only if the
+> difference of understanding between the arguer and the listener is
+> sufficiently negligible to allow both sides to be acquainted with the same
+> phenomenon whenever the argument exceeds a certain length depending on the
+> arguer and listener in question.
 
 Consider an argument of a human sensation "I am sad because my dog died." Most
 listeners to this statement will not need much further explanation, as most
