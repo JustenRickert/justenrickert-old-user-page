@@ -10,13 +10,13 @@ published: true
 
 > "A man rose one day from a large rock he was sitting upon to look down at the
 > ground under his feet. He spat in the grass to his side, then picked up a
-> small rock close to where he was sitting, picked it up, and brought it close
-> to his face. He imagined a possibility of something inside of the rock in his
-> hand as he stared at it, which caused human emotion to suddenly stretch across
-> his face. The rock rose in his arms as he stretched them into the air above
-> his head, then he began to throw the rock downwards with great force upon the
-> larger one. When the rocks collided, debris from the collision scattered
-> across the ground all around. The noise from the impact quickly subsided.
+> small rock close to where he was sitting and brought it close to his face. He
+> imagined a possibility of something inside of the rock in his hand as he
+> stared at it, which caused human emotion to suddenly stretch across his face.
+> The rock rose in his arms as he stretched them into the air above his head,
+> then he began to throw the rock downwards with great force upon the larger
+> one. When the rocks collided, debris from the collision scattered across the
+> ground all around. The noise from the impact quickly subsided.
 
 > "Shards of smaller rock sat freshly partitioned into slivers. The man took one
 > of the larger slivers into his hand and uttered something under his breath,
@@ -58,15 +58,16 @@ dispute the original meaning of the rock's existence; just as the man endeavored
 previously, he will continue; as such the argument will go on according with the
 man's own dissatisfaction with the universe.
 
-I believe this arguing to be a sort of mathematics
-that we are always trying to
-better. It is something that should have been perfect as the viewport in front
-of us, that when found to be imperfect lead us to try to correct it. That is
-because this sort of mathematics should have been correct and verifiable (such
-is this definition of mathematics). It is the contradiction that says
-mathematics, which should always consist of true statements, leads one to
-consider that the opposite of one of the statements was actually false. This is
-however useful, as were it not for the contradiction then the laws of
+I believe
+this
+[arguing to be a sort of mathematics]({% post_url 2017-05-23-mystical-mathematical-argument %}) that
+we are always trying to better. It is something that should have been perfect as
+the viewport in front of us, that when found to be imperfect lead us to try to
+correct it. That is because this sort of mathematics should have been correct
+and verifiable (such is this definition of mathematics). It is the contradiction
+that says mathematics, which should always consist of true statements, leads one
+to consider that the opposite of one of the statements was actually false. This
+is however useful, as were it not for the contradiction then the laws of
 mathematics would be inconsistent in that they would not contain the
 contradiction, but were it not for the contradiction nobody would attempt to
 argue better the laws of argument. And so it goes.
