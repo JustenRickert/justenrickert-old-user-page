@@ -6,6 +6,8 @@ date: 2017-05-23
 published: true
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## A Mathematical Philosopher
 
 <div class="left">
@@ -25,19 +27,20 @@ human thought (that I try to acquaint myself with) which he concerns himself
 with. A title of one of his essays, for example,
 is
 [_Mysticism and Logic_](https://play.google.com/store/books/details?id=zwMQAAAAYAAJ&rdid=book-zwMQAAAAYAAJ&rdot=1),
-which are two ideas in human thoughts ordinarily unrelated. It is that in the
-essay he attempts to bring together the two theories. I believe this to be a
-general human faculty, some kind of method bringing together previous ideas in
-important, new, useful ways.
+which are two ideas in human thoughts ordinarily unrelated. In the essay he
+attempts to bring together the two theories of Mysticism and Logic. I believe
+this to be a general human faculty, combination or unionization, some kind of
+method bringing together previous ideas in important, new, useful ways.
 
-In examining this sort of
-[unionization](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets)
-of ideas, one probably asks about the reasonable platforms which the ideas might
-be constructed upon. Perhaps one could argue that it is through the English
+In examining this sort
+of
+[unionization](https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets) of
+ideas, one probably asks about the reasonable platforms which the ideas might be
+constructed upon. Perhaps one could argue that it is through the English
 language that one constructs ideas. This would seem reasonable by the way that I
 am communicating ideas in the moment now. I make references to things, then use
 the points made by the things referenced to not only inform about the old
-ideologies referred to by the references, but pursue making of them something
+theories referred to by the references, but pursue making of them something
 meaningful and relevant to the present (or at least meaningful and relevant to
 me).
 
@@ -58,8 +61,8 @@ to find that more natural languages cannot represent exactly what mathematics
 does, even though these languages are eventually the things which share the
 details of the mathematics. In _Mysticism and Logic_ Bertrand Russell claims
 there is a "mystic insight" which "begins with a sense of mystery unveiled." I
-believe this to be a sort of abstract mathematics that makes up everything that
-humans wish to share in detail. He continues later to say:
+believe this to be a sort of abstract mathematics that makes up everything
+humans wish to share in detail. He continues to say:
 
 > "The first and most direct outcome of the moment of illumination [mystic
 > insight] is belief in the possibility of a way of knowledge which may be
