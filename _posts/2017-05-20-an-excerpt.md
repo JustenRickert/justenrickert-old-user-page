@@ -65,7 +65,7 @@ the viewport in front of us, that when found to be imperfect lead us to try to
 correct it. That is because this sort of mathematics should have been correct
 and verifiable (such is this definition of mathematics). It is the contradiction
 that says mathematics, which should always consist of true statements, leads one
-to consider that the opposite of one of the statements was actually false. This
+to consider that the opposite of one of the statements was actually true. This
 is however useful, as were it _not_ for the contradiction then the laws of
 mathematics would be inconsistent in that they would not contain the
 contradiction, but also were it not for the contradiction nobody would attempt

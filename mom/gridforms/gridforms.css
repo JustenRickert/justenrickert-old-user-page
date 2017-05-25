@@ -104,4 +104,19 @@
 .grid-form [data-row-span="12"] > [data-field-span="11"] { width: 91.66667%; }
 .grid-form [data-row-span="12"] > [data-field-span="12"] { width: 100%; }
 
+@media print {
+    ::-webkit-input-placehold {
+        color: transparent;
+    }
+    :-moz-placeholder {
+        color: transparent;
+    }
+    ::-moz-placeholder {
+        color: transparent;
+    }
+    :-ms-input-placeholder {
+        color transparent;
+    }
+}
+
 /*# sourceMappingURL=gridforms.css.map */

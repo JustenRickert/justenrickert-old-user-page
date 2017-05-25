@@ -201,8 +201,11 @@ states](http://www.uvm.edu/~lderosse/courses/lang/Russell(1905).pdf):
 > from acquaintance; but it succeeds in thinking _about_ many things with which
 > we have no acquaintance." --- Bertrand Russell, _On Denoting_
 
-I will not say anything on the subject. (I do not want to embark on the subject
-of denotation.) Rather, I will end the blog post with a quote by Paul Erdős,
+I will not say anything on the subject of denotation. (I do not want to embark
+on such a lengthy subject having already employed the definition of a convergent
+sequence. My argument could perhaps be continued in arguing something
+like [Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8), but again
+I am wanting to stop.) So, I will end the blog post with a quote by Paul Erdős,
 another mathematician. To me, denotation is beauty, and being able to make
 comparison between something and another thing that is unambiguous like numbers
 is beautiful.
