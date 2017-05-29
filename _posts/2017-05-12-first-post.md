@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-tags: Emacs, Spacemacs, Complexity
+tags: Emacs Spacemacs Complexity
 date: 2017-05-12
 published: true
 ---

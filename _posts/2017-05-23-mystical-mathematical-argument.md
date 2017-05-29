@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: "Mystical (Mathematical) Argument"
-tags: Mathematics, Bertrand Russell, Argument
+tags: mathematics bertrand russell argument
 date: 2017-05-23
 published: true
 ---

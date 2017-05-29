@@ -1,6 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 
+#title {
+    font-size: 0.9em;
+    text-align: right;
+    font-family: Montserrat;
+    color: #6B6B6B;
+    text-transform: capitalize;
+}
+
 img {
     font-family: Montserrat;
     display: block;
@@ -51,7 +59,7 @@ img {
 nav ul, footer ul {
     font-family: Montserrat;
     padding: 10px;
-    list-style: none;
+    /* list-style: none; */
     text-transform: lowercase;
 }
 
@@ -59,7 +67,7 @@ nav ul li, footer ul li {
     font-size: 1.1em;
     display: inline;
     margin-right: 20px;
-    list-style: square;
+    /* list-style: square; */
     text-transform: lowercase;
 }
 
@@ -76,7 +84,7 @@ body li {
     font-family: Nunito;
     font-size: 1.1em;
     font-weight: 500;
-    list-style: square;
+    /* list-style: square; */
 }
 
 @media (max-width: 632px) {

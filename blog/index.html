@@ -1,15 +1,31 @@
 ---
 layout: default
-title: Justen Rickert's Blog
+title: Blog
 ---
 
 <h1>{{ page.title }}</h1>
-<ul class="posts">
+<ul>
+    {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y %b'"  %}
+    {% for yearMonth in postsByYearMonth %}
+    <h3>{{ yearMonth.name }}</h3>
+    <ul>
+        {% for post in yearMonth.items %}
+        <li>{{ post.date | date: "%a" }}
+            {% assign day = post.date | date: "%-d" %}
+            {% case day %}
+            {% when '1' or '21' or '31' %}{{ day }}<sup>st</sup>
+            {% when '2' or '22' %}{{ day }}<sup>nd</sup>
+            {% when '3' or '23' %}{{ day }}<sup>rd</sup>
+            {% else %}{{ day }}<sup>th</sup>
+            {% endcase %}
 
-	  {% for post in site.posts %}
-	  <li>
-        <span> {{ post.date | date_to_string }} </span> ⇒ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-    <p></p>
-	  {% endfor %}
+            ⇒ <a href="{{ post.url }}">{{ post.title }}</a>,
+
+            <span style="font-style: italic">{{ post.content | number_of_words }} words</span>
+
+            <!-- <blockquote> tags: {{ post.tags | array_to_sentence_string }}</blockquote> -->
+        </li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
 </ul>

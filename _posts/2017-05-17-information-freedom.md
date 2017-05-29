@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Informational Freedom"
-tags: Social Justice, Edward Snowden, Chelsea Manning, Aaron Schwartz
+tags: Snowden Manning Schwartz
 date: 2017-05-16
 published: true
 ---
