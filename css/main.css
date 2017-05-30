@@ -6,7 +6,7 @@
     font-family: Voces;
 }
 
-.meta {
+.postdate {
     font-size: 0.9em;
     text-align: right;
     font-family: Montserrat;
@@ -68,10 +68,21 @@ img {
     font-size: .7em;
 }
 
-@media only screen and (max-device-width: 768px) {
+@media only screen and (max-device-width: 600px) {
     .largeleft {
-        width: 100%;
-        padding: 10px;
+        max-width: 100%;
+        padding: 0px;
+        padding-bottom: 10px;
+    }
+
+    #content ul {
+        padding: 0%;
+        padding-left: 3%;
+        font-size: 1em;
+    }
+
+    blockquote {
+        margin: 0px;
     }
 }
 
@@ -134,12 +145,15 @@ h1, h2, h3 {
 
 article {
     color: #222;
-    text-align: left-justify;
 }
 
 article blockquote {
     color: #6B6B6B;
     font-style: italic;
+}
+
+blockquote {
+    margin: 10px;
 }
 
 article p {
