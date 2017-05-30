@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Excerpt"
-tags: Creative writing
+tags: [creative writing, rocks]
 date: 2017-05-20
 published: true
 ---

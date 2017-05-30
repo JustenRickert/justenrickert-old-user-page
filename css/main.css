@@ -1,5 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Nunito);
+@import url(https://fonts.googleapis.com/css?family=Voces);
+
+.ipa {
+    font-family: Voces;
+}
+
+.meta {
+    font-size: 0.9em;
+    text-align: right;
+    font-family: Montserrat;
+    color: #6B6B6B;
+}
 
 #title {
     font-size: 0.9em;
@@ -56,6 +68,13 @@ img {
     font-size: .7em;
 }
 
+@media only screen and (max-device-width: 768px) {
+    .largeleft {
+        width: 100%;
+        padding: 10px;
+    }
+}
+
 nav ul, footer ul {
     font-family: Montserrat;
     padding: 10px;
@@ -85,13 +104,6 @@ body li {
     font-size: 1.1em;
     font-weight: 500;
     /* list-style: square; */
-}
-
-@media (max-width: 632px) {
-    .largeleft {
-        width: 100%;
-        padding: 10px;
-    }
 }
 
 a {

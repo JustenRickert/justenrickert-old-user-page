@@ -10,6 +10,6 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">{{ page.date | date_to_string }}<span style="color: gray; font-style: italic">, {{ page.tags | array_to_sentence_string }}</span></p>
 
 <article class="post" lang="en">{{ content }}</article>

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Rationality"
-tags: Rationality
-date: 2017-06-02
+tags: rationality logic
 published: false
 ---
 

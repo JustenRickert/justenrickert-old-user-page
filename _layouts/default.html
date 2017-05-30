@@ -55,8 +55,10 @@
      foot = document.getElementById('foot');
      monad = document.getElementById('monad');
 
-     /* TweenMax.from(nav, 1.0, {x: -200, ease: Circ.easeOut});*/
-     TweenMax.from(content, 1.0, {opacity:0, x: 500, ease: Circ.easeOut});
+     dX = 2 * (Math.random() - 0.5);
+     dY = Math.random();
+
+     TweenMax.from(content, 0.8, {opacity:0, x: 500 * dX, y: 500 * dY, ease: Circ.easeOut});
      TweenMax.from(foot, 1.0, {y: 300, ease: Power4.easeOut});
      TweenMax.from(monad, 3.5, {opacity:0, ease: Bounce.easeOut, delay: 0.5});
     </script>

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "First Post"
-tags: Emacs Spacemacs Complexity
-date: 2017-05-12
+tags: [Emacs, Spacemacs, complex, simple]
 published: true
 ---
 
@@ -35,6 +34,11 @@ fingertips. That is, I need not take the time to move my hands to and from the
 mouse to highlight text, to drag and drop things, or to scroll windows up and
 down pages, etc.
 
+> > __eas·y__ / ˈēzē/ _adjective_
+
+> achieved without great effort; presenting few difficulties. "an easy way of
+> retrieving information"
+
 It may seem strange to want to use such a primitive-looking editing program to
 do such a thing. If you were wondering, that is a screenshot of the entire face
 of the application as it is running. One would think developing something
@@ -46,6 +50,10 @@ so easy to use---so let me explain this point a little. In fact if you were a
 keen observer, you will have noticed that I am not using the Emacs mode to edit
 the markdown format text, and that is because I cannot get it to work at the
 moment! It must not be so easy if I cannot figure it out, after all.
+
+> __sim·ple__ / ˈsimpəl/ _adjective_
+
+> > composed of a single element; not compound.
 
 Rich Hickey, a programmer made popular by his designing the programming
 language [Clojure](https://en.wikipedia.org/wiki/Clojure), is well know for a

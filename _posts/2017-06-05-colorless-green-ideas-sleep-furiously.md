@@ -2,7 +2,6 @@
 layout: post
 title: "Grammatical"
 tags: Rational Sentences
-date: 2017-06-05
 published: false
 ---
 
@@ -24,7 +23,7 @@ reassembling the two separations.
 What does it mean to sleep furiously? To do anything furiously means one of two
 things according to the definition of furiously.
 
-> __fu·ri·ous·ly__ /ˈfyo͞orēəslē/ _adverb_
+> <span class="ipa">__fu·ri·ous·ly__ / ˈfyo͞orēəslē/ _adverb_</span>
 
 > > In an extremely angry manner.
 

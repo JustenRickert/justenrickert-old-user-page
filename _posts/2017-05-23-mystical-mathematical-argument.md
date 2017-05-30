@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: "Mystical (Mathematical) Argument"
-tags: mathematics bertrand russell argument
+tags: [mathematics, argument, Bertrand Russell, ]
 date: 2017-05-23
 published: true
 ---
@@ -30,6 +30,11 @@ which are two ideas in human thoughts ordinarily unrelated. In the essay he
 attempts to bring together the two theories of Mysticism and Logic. I believe
 this to be a general human faculty, combination or unionization, some kind of
 method bringing together previous ideas in important, new, useful ways.
+
+> > <span class="ipa">__un·ion__ / ˈyo͞onyən/ _noun_</span>
+
+> the set that comprises all the elements (and no others) contained in any of
+> two or more given sets.
 
 In examining this sort
 of
@@ -87,6 +92,10 @@ argue, and that which is unquestionable. It is my proposal that these two ends
 are convergent.
 
 ## Convergence of Ideas
+
+> > <span class="ipa">__con·verge__ /kənˈvərj/ _verb_</span>
+
+> (of a series) approximate in the sum of its terms toward a definite limit.
 
 I believe intuition to be related to the mathematical idea of
 [_convergence_](https://en.wikipedia.org/wiki/Limit_(mathematics)), in that the
@@ -169,6 +178,10 @@ grammars]({{ site.baseurl }}/files/thehumanautomaton.pdf).)
 <circle cx="50" cy="50" r="40" stroke-width="1" stroke="black" fill="white" />
 <circle cx="50" cy="50" r="2" stroke-width="2" stroke="black" fill="black" />
 </svg></div>
+
+> > <span class="ipa">__mon·ad__ / ˈmōˌnad/ _noun_</span>
+
+> a single unit; the number one.
 
 I like to picture it as what is called
 the [Monad](https://en.wikipedia.org/wiki/Monad_(philosophy)) (or

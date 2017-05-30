@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Words that everybody probably knows"
-tags: words vocabulary
+tags: [ubiquity, truth, idiom]
 date: 2017-05-29
 published: true
 ---
@@ -26,7 +26,7 @@ look though, so I told her that it means about the same thing as the word
 _commonplace_ (which in some circumstances is pretty close). Google's definition
 of the word is this:
 
-> __u·biq·ui·ty__ /yo͞oˈbikwədē/ _noun_
+> <span class="ipa">__u·biq·ui·ty__ /yo͞oˈbikwədē/ _noun_</span>
 
 > > The fact of appearing everywhere or of being very common.
 
@@ -71,27 +71,25 @@ In the same conversation I brought up the difference between two pairs of
 contrasting words. I list them as follows, and I hope it to be clear how they're
 not exactly how I believe one likes them to be.
 
-- __true and false__
+The first two are __true and false__.
 
-> > __true__ /tro͞o/ _adjective_
+> <span class="ipa">__true__ /tro͞o/ _adjective_</span>
 
-> > > In accordance with fact or reality.
+> > In accordance with fact or reality.
 
-> > __false__ /fôls/ _adjective_
+> <span class="ipa">__false__ /fôls/ _adjective_</span>
 
-> > > Not according with truth or fact; incorrect.
+> > Not according with truth or fact; incorrect.
 
-<br>
+The second two are __truth and falsehood__.
 
-- __truth and falsehood__
+> <span class="ipa">__truth__ /tro͞oTH/ _noun_</span>
 
-> > __truth__ /tro͞oTH/ _noun_
+> > The quality or state of being true.
 
-> > > The quality or state of being true.
+> <span class="ipa">__false·hood__ / ˈfôlsˌho͝od/ _noun_</span>
 
-> > __false·hood__ /ˈfôlsˌho͝od/ _noun_
-
-> > > The state of being untrue.
+> > The state of being untrue.
 
 (True and false just seem so _together_, both have one syllable and contrast
 each other in starting letter; whereas it's almost bizarre that the contrary to
@@ -127,7 +125,7 @@ A different time, happening further back, I constructed a topic about an idiom
 to discuss with my friends. As per the last two terms, I shall give a
 definition:
 
-> __id·i·om__ /ˈidēəm/ _noun_
+> <span class="ipa">__id·i·om__ / ˈidēəm/ _noun_</span>
 
 > > A group of words established by usage as having a meaning not deducible from
 > those of the individual words.
@@ -157,7 +155,7 @@ to, representative of, or indicative of nothing but itself.
 Though there is a second relevant definition in reference to programming I also
 think is important. It is this:
 
-> __id·i·om__ /ˈidēəm/ _noun_ (programming)
+> <span class="ipa">__id·i·om__ / ˈidēəm/ _noun_ (programming)</span>
 
 > > A programming construct or phraseology generally held to be the most
 > efficient or elegant means to achieve a particular result or behavior.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Informational Freedom"
-tags: Snowden Manning Schwartz
+tags: [Edward Snowden, Chelsea Manning, Aaron Schwartz]
 date: 2017-05-16
 published: true
 ---
@@ -18,6 +18,11 @@ dissemination of information otherwise held private (particularly by the
 government), wherein the information gives evidence of corruption, illegality,
 unethical behavior, unwarranted surveillance, or an innumerable amount of
 wrong-doings.
+
+> > <span class="ipa">__whis·tle-blow·er__ / ˈ(h)wisəl ˌblō(ə)r/ _noun_</span>
+
+> a person who informs on a person or organization engaged in an illicit
+> activity.
 
 As many should
 know, [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden) is a
