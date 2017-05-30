@@ -41,9 +41,9 @@ very important, where all of a sudden the clock displays a certain time so that
 his parents interrupt his progress and tell him he needs to go to bed. The child
 wants nothing else but to finish the work he's started. He begins to see his
 motivation crumbling before his eyes. How could he possibly ever find again the
-determination he's set himself to for finishing this project? Tears begin to
-well up in his eyes. He begins to become emotional over it. He cannot stand that
-his own parents would make him feel this way when it should have been obvious to
+determination he's set for himself to finish this project? Tears begin to well
+up in his eyes. He begins to become emotional over it. He cannot stand that his
+own parents would make him feel this way when it should have been obvious to
 them how passionate he had become over the project. Now he must angrily retreat
 to his room, where for many moments he will lie awake before drifting to sleep
 furiously.

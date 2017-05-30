@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
-
 		<head>
         <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
@@ -15,11 +13,12 @@
         <meta charset="utf-8"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-			  <title>{{ page.title }}</title>
-
 			  <!-- link to main stylesheet -->
 			  <link rel="stylesheet" type="text/css" href="/css/main.css">
-			{% include ga.html %}
+
+		    <title>{{ page.title }}</title>
+
+			  {% include ga.html %}
 		</head>
 
 		<body>
@@ -32,10 +31,9 @@
 	    		  </ul>
 			  </nav>
 
-			  <div id="content" class="container">
+			  <div id="content" class="typed">
 			      {{ content }}
-			  </div><br>
-
+			  </div>
 			  <footer id="foot">
 	    		  <ul>
 	        		  <li><a href="mailto:justenrickert@gmail.com">email</a></li>
@@ -49,6 +47,76 @@
         </svg>
 		</body>
 
+    <style>
+        /* code for animated blinking cursor */
+        .typed-cursor{
+            opacity: 1;
+            font-weight: 100;
+            -webkit-animation: blink 0.7s infinite;
+            -moz-animation: blink 0.7s infinite;
+            -ms-animation: blink 0.7s infinite;
+            -o-animation: blink 0.7s infinite;
+            animation: blink 0.7s infinite;
+        }
+        @-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-webkit-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-moz-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-ms-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-o-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+
+        .typed-fade-out{
+            opacity: 0;
+            animation: 0;
+            transition: opacity 1s;
+        }
+    </style>
+
+    <script src="{{ site.baseurl }}/js/typed.js/js/typed.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+        Typed.new("#typed", {
+            stringsElement: document.getElementById('typed-strings'),
+            typeSpeed: 0.01,
+            loop: false,
+            contentType: 'html', // or text
+            // defaults to null for infinite loop
+            loopCount: null,
+            callback: function(){ foo(); },
+            resetCallback: function() { newTyped(); }
+        });
+
+        var resetElement = document.querySelector('.reset');
+        if(resetElement) {
+            resetElement.addEventListener('click', function() {
+                document.getElementById('typed')._typed.reset();
+            });
+        }
+
+    });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
     <script>
      /* nav = document.getElementById('nav');*/
      content = document.getElementById('content');

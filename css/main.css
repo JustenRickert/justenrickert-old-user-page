@@ -2,6 +2,22 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 @import url(https://fonts.googleapis.com/css?family=Voces);
 
+#typed {
+    font-family: Nunito, sans-serif;
+    font-weight: 500;
+    font-size: 1.0em;
+}
+
+
+
+h1 {
+    width: 100%;
+    color: #6B6B6B;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
 .ipa {
     font-family: Voces;
 }
@@ -127,13 +143,6 @@ a:hover {
     text-decoration: underline;
 }
 
-h1 {
-    width: 100%;
-    color: #6B6B6B;
-    text-transform: uppercase;
-    text-align: center;
-}
-
 h2, h3 {
     color: #222;
 }
@@ -153,7 +162,7 @@ article blockquote {
 }
 
 blockquote {
-    margin: 10px;
+    margin: 25px;
 }
 
 article p {

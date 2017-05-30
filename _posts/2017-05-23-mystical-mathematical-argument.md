@@ -117,28 +117,32 @@ in consideration of numbers, is defined as follows:
 
 ### Numbers
 
-As a demonstration, imagine a sequence of numbers converging to the number $$0$$
-such that $$s = 0$$. Let the beginning value of the sequence $$s_1$$ be $$1$$,
-and let the sequence be defined such that $$s_i = \frac{s_{i - 1}}{2}$$ for all
-$$i > 1$$. This means that $$s_2 = \frac{1}{2}, s_3 = \frac{1}{4}, s_4 =
-\frac{1}{8}, ...,$$ etc. From the listing of the elements it should be intuitive
-that the values of the sequence approach the number $$0$$, but never actually
-includes the value $$s = 0$$ --- even though the sequence will always be
-converging closer and closer to the value $$s$$.
+As a demonstration, imagine a sequence of numbers converging to the number $$1$$
+such that $$s = 1$$. Let the beginning value of the sequence $$s_1$$ be
+$$\frac{1}{2}$$, and let the sequence be defined such that $$s_i = 1 - 2^{-i}$$
+for all $$i > 1$$. This means that $$s_2 = \frac{3}{4}$$, $$s_3 = \frac{7}{8}$$,
+$$s_4 = \frac{15}{16}$$, etc. From the listing of the elements it should be
+intuitive that the values of the sequence approach the number $$1$$ while the
+set of numbers produced never actually includes the value $$s = 1$$ --- even
+though the sequence will always be converging closer and closer to the value
+$$s$$.
 
 For the matter of proving the convergence of the sequence, imagine a value
 $$\varepsilon = \frac{1}{8}$$. In order that the definition holds given this
 particular $$\varepsilon$$, there needs exist a natural number $$N$$ such that
 the difference of each value of the sequence $$s_n$$ to the value $$s$$ is less
-than the value $$\varepsilon$$ whenever $$n \ge N$$. Having the given
-$$\varepsilon = \frac{1}{8}$$, it should be clear that whenever $$n \ge 5$$, the
-value of the sequence $$s_n$$ is going to be less than $$\frac{1}{8}$$ (this is
-because $$s_5 = \frac{1}{16}$$, and each $$s_n$$ after $$s_5$$ in the sequence
-is going to be smaller that it by the definition given for the sequence
-$$s_n$$); therefore $$\left| s_n - s \right| < \varepsilon$$ whenever $$n \ge
-5$$ (because $$\left| s_n - 0 \right| < \frac{1}{8}$$ whenever $$n \ge 5$$). It
-still remains to be proven that the definition holds for _any_ $$\varepsilon$$,
-however the remainder of this proof is left as an exercise for the reader.
+than the value $$\varepsilon$$ whenever $$n \ge N$$. 
+
+Having the given $$\varepsilon = \frac{1}{8}$$, it should be clear that whenever
+$$n \ge 4$$, the difference between value of the sequence $$s_n$$ and $$s$$ is
+going to be less than $$\frac{1}{8}$$ (this is because $$s_4 = \frac{15}{16}$$,
+and each later $$s_n$$ in the sequence is going to be greater that s_n by the
+definition of the sequence $$(s_n)$$, so $$\left| s_n - s \right| <
+\varepsilon$$); therefore $$\left| s_n - s \right| < \varepsilon$$ whenever $$n
+\ge 5$$ (because $$\left| s_n - 1 \right| < \frac{1}{8}$$ whenever $$n \ge 5$$).
+It still remains to be proven that the definition holds for _any_
+$$\varepsilon$$, however the remainder of this proof is left as an exercise for
+the reader.
 
 ### Arguments and Ideas
 
