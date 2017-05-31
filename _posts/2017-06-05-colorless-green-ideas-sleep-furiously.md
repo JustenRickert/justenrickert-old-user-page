@@ -94,11 +94,11 @@ less close to something patterned but more abstract. It is:
 > > a concept or mental impression.
 
 It is something expressible by words though not entirely, and exists prior to
-the words. Something causally formulated by human consciousness and surreal so
-as to not exist in concrete form. In consideration of this, it does not make
-sense that an idea is green. Though, from a surreal perspective, people still
-attribute abstract meaning sometimes to the adjective green. If one forms the
-sense of green to mean _go_ in the same way that modern people associate the
+the words existing; something causally formulated by human consciousness and
+surreal (not existing in concrete form). In consideration of this, it does not
+make sense that an idea is green. Though, from a surreal perspective, people
+still attribute abstract meaning sometimes to the adjective green. If one forms
+the sense of green to mean _go_ in the same way that modern people associate the
 green signals at stoplights to me _go_, then green might be attachable to such a
 condition the same as the word _go_. A green idea could be an idea intended to
 be or do something at the point one calls it green, similar to stoplights

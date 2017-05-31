@@ -2,5 +2,6 @@ exclude: [devserve, Gemfile, Gemfile.lock]
 future: false
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 google-analytics: UA-99443259-1
 name: Justen Rickert
