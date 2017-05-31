@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industry Technologies"
-tags: [job searching, advertising myself, buzzwords]
+tags: [job searching, advertising myself, buzzwords, the noosphere]
 published: false
 ---
 
@@ -19,7 +19,7 @@ Previously my own interests filled up my schedule, whereas now it seems the
 interests of the commercial world do. Before starting to read daily about
 WordPress, Drupal, and other content management systems, I read about
 programming languages used for data manipulation. Alas now I change my ways such
-that more people might come to see me some day. I propose two things necessary
+that more people might come to see me some day. I propose two words necessary
 for fulfilling this task: _buzzword_ and _advertise_.
 
 The Current Task
@@ -38,19 +38,17 @@ have the opportunity to be on the same page.
 > > describe or draw attention to (a product, service, or event) in a public
 > medium in order to promote sales or attendance.
 
-Given these definition it should be clear that the words satisfy the problem I
+Given these definitions it should be clear that the words satisfy the problem I
 am having. I must make the people of this particular context have a fashionable
 opinion of me. If relevant future employers feel that I am up-to-date on the
 current technologies and ideas, then they will be more apt to hire me. It is the
 usage of appropriate buzzwords which gives them such an opinion of me given that
 I can manage to advertise myself effectively; so I should attempt to grok such a
-vocabulary and formulate a way to show myself such that all of my relevant
+vocabulary and formulate a way to show myself off such that all of my relevant
 qualities are on display.
 
 The Future
 ----------
-
-
 
 > <span class="ipa">__no·o·sphere__ / ˈnōəˌsfir/ _noun_</span>
 
@@ -63,11 +61,6 @@ The Future
 > groupings that belong to a higher order than his. --- Pierre Teilhard de
 > Chardin, __Heart of Matter__
 
-> "At that node of ultimate synthesis, the internal spark of consciousness that
-> evolution has slowly banked into a roaring fire will finally consume the
-> universe itself. Our ancient itch to flee this woeful orb will finally be
-> satisfied as the immense expanse of cosmic matter collapses like some
-> mathematician's hypercube into absolute spirit." --- Pierre Teilhard de
-> Chardin
+"At that node of ultimate synthesis, the internal spark of consciousness that evolution has slowly banked into a roaring fire will finally consume the universe itself. Our ancient itch to flee this woeful orb will finally be satisfied as the immense expanse of cosmic matter collapses like some mathematician's hypercube into absolute spirit." --- Pierre Teilhard de Chardin
 
 My brother has interested himself in blog creation technologies recently, and .

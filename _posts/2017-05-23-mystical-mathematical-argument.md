@@ -137,9 +137,9 @@ Having the given $$\varepsilon = \frac{1}{8}$$, it should be clear that whenever
 $$n \ge 4$$, the difference between value of the sequence $$s_n$$ and $$s$$ is
 going to be less than $$\frac{1}{8}$$ (this is because $$s_4 = \frac{15}{16}$$,
 and each later $$s_n$$ in the sequence is going to be greater that s_n by the
-definition of the sequence $$(s_n)$$, so $$\left| s_n - s \right| <
+definition of the sequence $$\left(s_n \right)$$, so $$\left| s_n - s \right| <
 \varepsilon$$); therefore $$\left| s_n - s \right| < \varepsilon$$ whenever $$n
-\ge 5$$ (because $$\left| s_n - 1 \right| < \frac{1}{8}$$ whenever $$n \ge 5$$).
+\ge 4$$ (because $$\left| s_n - 1 \right| < \frac{1}{8}$$ whenever $$n \ge 4$$).
 It still remains to be proven that the definition holds for _any_
 $$\varepsilon$$, however the remainder of this proof is left as an exercise for
 the reader.
