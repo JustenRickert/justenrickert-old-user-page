@@ -1,5 +1,5 @@
-exclude: [devserve, Gemfile, Gemfile.lock]
-description: A blog dedicated to mathematics, linguistics, reason, and somewhat to my personal life
+exclude: [rebuildghpages, devserve, Gemfile, Gemfile.lock]
+description: A blog dedicated to mathematics, linguistics, reason, and somewhat my personal life
 future: false
 gems:
   - jekyll-sitemap

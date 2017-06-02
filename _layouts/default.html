@@ -1,21 +1,68 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 		<head>
+        {% if page.mathjax %}
+        <script type="text/javascript" async
+                src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+        {% endif %}
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
         <link rel="manifest" href="/favicon/manifest.json">
-        <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
-        <meta name="theme-color" content="#ffffff">
+        <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg">
 
-        <meta charset="utf-8"></meta>
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
 			  <!-- link to main stylesheet -->
 			  <link rel="stylesheet" type="text/css" href="/css/main.css">
 
-		    <title>{{ page.title }}</title>
+        <style>
+         /* code for animated blinking cursor */
+         .typed-cursor{
+             opacity: 1;
+             font-weight: 100;
+             -webkit-animation: blink 0.7s infinite;
+             -moz-animation: blink 0.7s infinite;
+             -ms-animation: blink 0.7s infinite;
+             -o-animation: blink 0.7s infinite;
+             animation: blink 0.7s infinite;
+         }
+         @-keyframes blink{
+             0% { opacity:1; }
+             50% { opacity:0; }
+             100% { opacity:1; }
+         }
+         @-webkit-keyframes blink{
+             0% { opacity:1; }
+             50% { opacity:0; }
+             100% { opacity:1; }
+         }
+         @-moz-keyframes blink{
+             0% { opacity:1; }
+             50% { opacity:0; }
+             100% { opacity:1; }
+         }
+         @-ms-keyframes blink{
+             0% { opacity:1; }
+             50% { opacity:0; }
+             100% { opacity:1; }
+         }
+         @-o-keyframes blink{
+             0% { opacity:1; }
+             50% { opacity:0; }
+             100% { opacity:1; }
+         }
+
+         .typed-fade-out{
+             opacity: 0;
+             animation: 0;
+             transition: opacity 1s;
+         }
+        </style>
 
 			  {% include ga.html %}
         {% seo %}
@@ -24,10 +71,21 @@
 		<body>
 			  <nav id="nav">
 	    		  <ul>
-	        		  <li><a href="/">Home</a></li>
-		        	  <li><a href="/about">About</a></li>
-	        		  <li><a href="/blog">Blog</a></li>
-		        	  <li><a href="/etc">Etc</a></li>
+                {% if page.title != 'Justen Rickert' %}
+	        		  <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i><span style="margin-left:5px;">Home</span></a></li>
+                {% endif %}
+
+                {% if page.title != 'About' %}
+		        	  <li><a href="/about"><i class="fa fa-user" aria-hidden="true"></i><span style="margin-left:5px;">About</span></a></li>
+                {% endif %}
+
+                {% if page.title != 'Blog' %}
+	        		  <li><a href="/blog"><i class="fa fa-book" aria-hidden="true"></i><span style="margin-left:5px;">Blog</span></a></li>
+                {% endif %}
+
+                {% if page.title != 'etc' %}
+		        	  <li><a href="/etc"><i class="fa fa-bars" aria-hidden="true"></i><span style="margin-left:5px;">Etc</span></a></li>
+                {% endif %}
 	    		  </ul>
 			  </nav>
 
@@ -36,8 +94,8 @@
 			  </div>
 			  <footer id="foot">
 	    		  <ul>
-	        		  <li><a href="mailto:justenrickert@gmail.com">email</a></li>
-	        		  <li><a href="https://github.com/justenrickert">github.com/justenrickert</a></li>
+	        		  <li><a href="mailto:justenrickert@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><span style="margin-left:5px;">email</span></a></li>
+	        		  <li><a href="https://github.com/justenrickert"><i class="fa fa-github" aria-hidden="true"></i><span style="margin-left:5px;">github.com/justenrickert</span></a></li>
 				    </ul>
 			  </footer>
 
@@ -47,73 +105,29 @@
         <!-- </svg> -->
 		</body>
 
-    <style>
-        /* code for animated blinking cursor */
-        .typed-cursor{
-            opacity: 1;
-            font-weight: 100;
-            -webkit-animation: blink 0.7s infinite;
-            -moz-animation: blink 0.7s infinite;
-            -ms-animation: blink 0.7s infinite;
-            -o-animation: blink 0.7s infinite;
-            animation: blink 0.7s infinite;
-        }
-        @-keyframes blink{
-            0% { opacity:1; }
-            50% { opacity:0; }
-            100% { opacity:1; }
-        }
-        @-webkit-keyframes blink{
-            0% { opacity:1; }
-            50% { opacity:0; }
-            100% { opacity:1; }
-        }
-        @-moz-keyframes blink{
-            0% { opacity:1; }
-            50% { opacity:0; }
-            100% { opacity:1; }
-        }
-        @-ms-keyframes blink{
-            0% { opacity:1; }
-            50% { opacity:0; }
-            100% { opacity:1; }
-        }
-        @-o-keyframes blink{
-            0% { opacity:1; }
-            50% { opacity:0; }
-            100% { opacity:1; }
-        }
-
-        .typed-fade-out{
-            opacity: 0;
-            animation: 0;
-            transition: opacity 1s;
-        }
-    </style>
-
     <script src="{{ site.baseurl }}/js/typed/js/typed.js"></script>
     <script>
-    document.addEventListener('DOMContentLoaded', function() {
+     document.addEventListener('DOMContentLoaded', function() {
 
-        Typed.new("#typed", {
-            stringsElement: document.getElementById('typed-strings'),
-            typeSpeed: 0.01,
-            loop: false,
-            contentType: 'html', // or text
-            // defaults to null for infinite loop
-            loopCount: null,
-            callback: function(){ foo(); },
-            resetCallback: function() { newTyped(); }
-        });
+         Typed.new("#typed", {
+             stringsElement: document.getElementById('typed-strings'),
+             typeSpeed: 0.01,
+             loop: false,
+             contentType: 'html', // or text
+             // defaults to null for infinite loop
+             loopCount: null,
+             callback: function(){ foo(); },
+             resetCallback: function() { newTyped(); }
+         });
 
-        var resetElement = document.querySelector('.reset');
-        if(resetElement) {
-            resetElement.addEventListener('click', function() {
-                document.getElementById('typed')._typed.reset();
-            });
-        }
+         var resetElement = document.querySelector('.reset');
+         if(resetElement) {
+             resetElement.addEventListener('click', function() {
+                 document.getElementById('typed')._typed.reset();
+             });
+         }
 
-    });
+     });
     </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
@@ -121,13 +135,13 @@
      /* nav = document.getElementById('nav');*/
      content = document.getElementById('content');
      foot = document.getElementById('foot');
-     monad = document.getElementById('monad');
+     /* monad = document.getElementById('monad');*/
 
      dX = 2 * (Math.random() - 0.5);
      dY = Math.random();
 
      TweenMax.from(content, 0.8, {opacity:0, x: 500 * dX, y: 200 * dY, ease: Circ.easeOut});
      TweenMax.from(foot, 1.0, {y: 300 * dY, ease: Power4.easeOut});
-     TweenMax.from(monad, 3.5, {opacity:0, ease: Bounce.easeOut, delay: 0.5});
+     /* TweenMax.from(monad, 3.5, {opacity:0, ease: Bounce.easeOut, delay: 0.5});*/
     </script>
 </html>
