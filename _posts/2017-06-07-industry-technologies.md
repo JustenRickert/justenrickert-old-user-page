@@ -29,6 +29,10 @@ Given these definitions it should be clear that effective usage of the words wil
 The Future
 ----------
 
+<div class="largeleft">
+<img src="{{ site.baseurl }}/images/industry-technologies/gradjusten.png">
+</div>
+
 Alas it all leads towards the future. Humans are a specification of animals. We are biological, but it seems also that all we do leads towards becoming technological. As animals we find ourselves to be social so we created words. As thinkers we developed relevant to the problems in our lives. We then decided that we like to see good typography for the words we use, and we somehow came to appreciate good-looking images on the devices we hold; things extraneous to the being animals, things part of a greater sphere of understanding or a consciousness of the world around us.
 
 > <span class="ipa">__no·o·sphere__ / ˈnōəˌsfir/ _noun_</span>
@@ -51,4 +55,4 @@ Then maybe humanity can find the metaphysical point at end of the biological rep
 > universe itself. Our ancient itch to flee this woeful orb will finally be
 > satisfied as the immense expanse of cosmic matter collapses like some
 > mathematician's hypercube into absolute spirit." --- Pierre Teilhard de
-> Chardin 
+> Chardin
