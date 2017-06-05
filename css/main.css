@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
-@import url(https://fonts.googleapis.com/css?family=Nunito);
-@import url(https://fonts.googleapis.com/css?family=Voces);
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Voces');
 
 #typed {
     font-family: Nunito, sans-serif;
@@ -83,7 +83,7 @@ img {
 
 @media only screen and (max-device-width: 600px) {
     .largeleft {
-        max-width: 100%;
+        width: 100%;
         padding: 0px;
         padding-bottom: 10px;
     }
