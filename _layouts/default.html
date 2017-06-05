@@ -7,7 +7,11 @@
                 src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
         </script>
         {% endif %}
+
+        <script src="{{ site.baseurl }}/js/typed/js/typed.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
         <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
@@ -72,19 +76,19 @@
 			  <nav id="nav">
 	    		  <ul>
                 {% if page.title != 'Justen Rickert' %}
-	        		  <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i><span style="margin-left:5px;">Home</span></a></li>
+	        		  <li><a href="/" style="white-space:nowrap;"><i class="fa fa-home" aria-hidden="true"></i><span style="margin-left:5px;">Home</span></a></li>
                 {% endif %}
 
                 {% if page.title != 'About' %}
-		        	  <li><a href="/about"><i class="fa fa-user" aria-hidden="true"></i><span style="margin-left:5px;">About</span></a></li>
+		        	  <li><a href="/about" style="white-space:nowrap;"><i class="fa fa-user" aria-hidden="true"></i><span style="margin-left:5px;">About</span></a></li>
                 {% endif %}
 
                 {% if page.title != 'Blog' %}
-	        		  <li><a href="/blog"><i class="fa fa-book" aria-hidden="true"></i><span style="margin-left:5px;">Blog</span></a></li>
+	        		  <li><a href="/blog" style="white-space:nowrap;"><i class="fa fa-book" aria-hidden="true"></i><span style="margin-left:5px;">Blog</span></a></li>
                 {% endif %}
 
                 {% if page.title != 'etc' %}
-		        	  <li><a href="/etc"><i class="fa fa-bars" aria-hidden="true"></i><span style="margin-left:5px;">Etc</span></a></li>
+		        	  <li><a href="/etc" style="white-space:nowrap;"><i class="fa fa-bars" aria-hidden="true"></i><span style="margin-left:5px;">Etc</span></a></li>
                 {% endif %}
 	    		  </ul>
 			  </nav>
@@ -94,8 +98,8 @@
 			  </div>
 			  <footer id="foot">
 	    		  <ul>
-	        		  <li><a href="mailto:justenrickert@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i><span style="margin-left:5px;">email</span></a></li>
-	        		  <li><a href="https://github.com/justenrickert"><i class="fa fa-github" aria-hidden="true"></i><span style="margin-left:5px;">github.com/justenrickert</span></a></li>
+	        		  <li><a href="mailto:justenrickert@gmail.com" style="white-space:nowrap;"><i class="fa fa-envelope" aria-hidden="true"></i><span style="margin-left:5px;">email</span></a></li>
+	        		  <li><a href="https://github.com/justenrickert" style="white-space:nowrap;"><i class="fa fa-github" aria-hidden="true"></i><span style="margin-left:5px;">github.com/justenrickert</span></a></li>
 				    </ul>
 			  </footer>
 
@@ -105,7 +109,6 @@
         <!-- </svg> -->
 		</body>
 
-    <script src="{{ site.baseurl }}/js/typed/js/typed.js"></script>
     <script>
      document.addEventListener('DOMContentLoaded', function() {
 
@@ -130,7 +133,6 @@
      });
     </script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
     <script>
      /* nav = document.getElementById('nav');*/
      content = document.getElementById('content');

@@ -10,7 +10,7 @@
 
 h1 {
     width: 100%;
-    color: #6B6B6B;
+    color: #404041;
     text-transform: uppercase;
     text-align: center;
 }
@@ -114,6 +114,10 @@ nav ul li, footer ul li {
     text-transform: lowercase;
 }
 
+ul a {
+    color: #6B6B6B;
+}
+
 body {
     max-width: 700px;
     width: 85%;
@@ -132,15 +136,18 @@ body li {
 
 a {
     text-decoration: underline;
-    color: #6B6B6B;
+    /* color: #6B6B6B; */
+    color: #546d89;
 }
 
 a:hover {
-    color: #222;
+    color: #212b36;
+    /* color: #222; */
     text-decoration: underline;
 }
 
 h2, h3 {
+    /* color: #404041; */
     color: #222;
 }
 
@@ -150,6 +157,7 @@ h1, h2, h3 {
 }
 
 article {
+    /* color: #404041; */
     color: #222;
 }
 
