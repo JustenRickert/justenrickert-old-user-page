@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Voces);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Nunito);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 #typed {
     font-family: Nunito, sans-serif;
@@ -80,29 +79,6 @@ img {
     padding-right: 10px;
     text-align: center;
     font-size: .7em;
-}
-
-@media only screen and (max-device-width: 600px) {
-    .largeleft {
-        max-width: 100%;
-        padding: 0px;
-        margin: 0px;
-        padding-bottom: 10px;
-    }
-
-    #content ul {
-        padding: 0%;
-        padding-left: 3%;
-        font-size: 1em;
-    }
-
-    blockquote {
-        margin: 0px;
-    }
-
-    .ipa {
-        font-family: Open Sans;
-    }
 }
 
 nav ul, footer ul {
@@ -206,4 +182,41 @@ footer {
     border-top: 1px solid #6B6B6B;
     font-size: .9em;
     text-align: right;
+}
+
+.PageNavigation {
+    font-size: 14px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+}
+
+.PageNavigation span {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+}
+
+.PageNavigation .next {
+    text-align: right;
+}
+
+@media only screen and (max-device-width: 600px) {
+    .largeleft {
+        min-width: 100%;
+        padding: 0px;
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+
+    #content ul {
+        padding: 0%;
+        padding-left: 3%;
+        font-size: 1em;
+    }
+
+    blockquote {
+        margin: 0px;
+    }
 }

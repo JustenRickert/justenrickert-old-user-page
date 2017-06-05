@@ -19,7 +19,7 @@ title: Blog
             {% else %}{{ day }}<sup>th</sup>
             {% endcase %}
 
-            ⇒ <a title="tags: {{ post.tags | array_to_sentence_string }}" href="{{ post.url }}">{{ post.title }}</a>,
+            &#8658; <a title="tags: {{ post.tags | array_to_sentence_string }}" href="{{ post.url }}">{{ post.title }}</a>,
 
             <span style="font-style: italic">{{ post.content | number_of_words }} words</span>
 

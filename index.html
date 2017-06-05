@@ -3,6 +3,50 @@ layout: default
 title: Justen Rickert
 ---
 
+<style>
+ /* code for animated blinking cursor */
+ .typed-cursor{
+     opacity: 1;
+     font-weight: 100;
+     -webkit-animation: blink 0.7s infinite;
+     -moz-animation: blink 0.7s infinite;
+     -ms-animation: blink 0.7s infinite;
+     -o-animation: blink 0.7s infinite;
+     animation: blink 0.7s infinite;
+ }
+ @-keyframes blink{
+     0% { opacity:1; }
+     50% { opacity:0; }
+     100% { opacity:1; }
+ }
+ @-webkit-keyframes blink{
+     0% { opacity:1; }
+     50% { opacity:0; }
+     100% { opacity:1; }
+ }
+ @-moz-keyframes blink{
+     0% { opacity:1; }
+     50% { opacity:0; }
+     100% { opacity:1; }
+ }
+ @-ms-keyframes blink{
+     0% { opacity:1; }
+     50% { opacity:0; }
+     100% { opacity:1; }
+ }
+ @-o-keyframes blink{
+     0% { opacity:1; }
+     50% { opacity:0; }
+     100% { opacity:1; }
+ }
+
+ .typed-fade-out{
+     opacity: 0;
+     animation: 0;
+     transition: opacity 1s;
+ }
+</style>
+
 <div>
     <h1>{{ page.title }}</h1>
     <blockquote id="title"><span>Mathematician, Web Developer</span></blockquote>
@@ -16,8 +60,9 @@ title: Justen Rickert
         <span id="typed"></span>
     </div><br>
 
-
     <!-- <p> If you're feeling angry or impressed by me. Please send <a href="{{
          site.url }}/etc/feedback.html">feedback</a>.
        -->
-</div><!-- /.blurb -->
+</div>
+
+
