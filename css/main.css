@@ -76,7 +76,17 @@ img {
     font-family: Montserrat;
     max-width: 75%;
     float: left;
-    padding-right: 10px;
+    padding-right: 4px;
+    text-align: center;
+    font-size: .7em;
+}
+
+.largeright {
+    color: #6B6B6B;
+    font-family: Montserrat;
+    max-width: 75%;
+    float: right;
+    padding-left: 4px;
     text-align: center;
     font-size: .7em;
 }
@@ -101,7 +111,7 @@ ul a {
 }
 
 body {
-    max-width: 700px;
+    max-width: 900px;
     width: 85%;
     font-size: 1.1em;
     margin-left: auto;
