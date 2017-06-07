@@ -100,9 +100,9 @@ make sense that an idea is green. Though, from a surreal perspective, people
 still attribute abstract meaning sometimes to the adjective green. If one forms
 the sense of green to mean _go_ in the same way that modern people associate the
 green signals at stoplights to me _go_, then green might be attachable to such a
-condition the same as the word _go_. A green idea could be an idea intended to
-be or do something at the point one calls it green, similar to stoplights
-signaling cars to move upon changing color.
+condition the same as the moving word _go_. A green idea could be an idea
+intended to be or do something at the point one calls something going, similar
+to stoplights signaling cars to move upon changing color.
 
 Putting Them Together
 ---------------------
@@ -110,6 +110,12 @@ Putting Them Together
 Again considering the furious child who schemed to outwit his parents, it seems
 plausible to say that the child's enemy initiated his cunning idea. Let's say
 that it was not this intention of the enemy, however, that intended the moving
-of the scheme. I
+of the scheme. Rather let us say that the child's ideas are things already in
+motion to be suddenly halted by the  child's parents' initiation. They were
+grand ideas on a trajectory of completion, but then suddenly laid to rest.
 
-At this point, it is plain to see the problem that arises by the phrase
+In the haste of it all, the child had to furiously place his eyelids shut to
+leave his ideas uncompleted. The ideas are left like an unfinished coloring book
+looking scribbled upon next to crayons on the ground. In the mind of the child
+put to bed, the ideas are outlines of things started but unfortunately amount to
+nothing in the end. His colorless green ideas sleep furiously.
