@@ -1,15 +1,27 @@
 ---
 layout: post
 title: "Colorless Green Ideas Sleep Furiously"
-tags: Rational Sentences
+tags: [Sentences, semantic, syntactic, Noam Chomsky]
 published: true
 ---
 
-We wish to construct the statement
+Check out this video if you're interested. It's pretty long, but I think gives a
+pretty good starting point for the mood of this post. It isn't necessary to
+watch. I just want to share it.
 
-> colorless green ideas sleep furiously
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hBpetDxIEMU?start=83" frameborder="0" allowfullscreen></iframe>
+</div>
 
-so that it might make sense in the ordinary world.
+The video to me demonstrates the ability language has as a meaningful tool to
+describe real-world scenarios. There is an important statement in the field of
+linguistics which, in reference to a language's ability to explicate, is a
+perfectly fine sentence fragment but purports no real-world scenario. The
+statement is
+
+> colorless green ideas sleep furiously,
+
+and I wish now to give some semantic definition to it.
 
 Upon first glance, it would seem that the statement is nonsensical. The
 statement was formulated by Noam Chomsky to demonstrate a generative grammar
@@ -43,7 +55,7 @@ given to the verb phrase _to sleep furiously_.
 
 <div class="right">
 <img src="{{ site.baseurl }}/images/colorless-green-ideas/door.png">
-</div>
+</div><br>
 
 In consideration of the first definition, let there exist a child furious over
 the rules set by his parents about going to bed at a certain hour. In this case,
