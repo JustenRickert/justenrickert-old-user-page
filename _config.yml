@@ -1,7 +1,14 @@
-exclude: [rebuildghpages, devserve, Gemfile, Gemfile.lock]
-description: A blog dedicated to mathematics, linguistics, reason, and somewhat my personal life
+exclude:
+  - rebuildghpages
+  - devserve
+  - Gemfile
+  - Gemfile.lock
+description: >
+  A blog dedicated to mathematics, programming, linguistics, and somewhat my
+  personal life
 future: false
 gems:
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 google-analytics: UA-99443259-1

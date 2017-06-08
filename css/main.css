@@ -8,6 +8,11 @@
     font-size: 1.0em;
 }
 
+#content {
+    margin: auto auto;
+    width: 85%;
+}
+
 h1 {
     width: 100%;
     color: #404041;
@@ -91,6 +96,13 @@ img {
     font-size: .7em;
 }
 
+nav {
+    font-size: 1.1em;
+    margin: auto auto;
+    width: 85%;
+    border-bottom: 1px solid #6B6B6B;
+}
+
 nav ul, footer ul {
     font-family: Montserrat;
     padding: 10px;
@@ -117,8 +129,9 @@ ul a {
 }
 
 body {
+    margin-top: 0px;
+    border-top: 5px solid #6B6B6B;
     max-width: 900px;
-    width: 85%;
     font-size: 1.1em;
     margin-left: auto;
     margin-right: auto;
@@ -187,11 +200,9 @@ p a {
     text-decoration: underline;
 }
 
-#nav {
-    font-size: 1.1em;
-}
-
 footer {
+    margin: auto auto;
+    width: 85%;
     border-top: 1px solid #6B6B6B;
     font-size: .9em;
     text-align: right;
